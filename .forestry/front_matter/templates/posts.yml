@@ -94,3 +94,6 @@ fields:
   type: text
   hidden: false
   default: "/journal/:title/"
+- type: boolean
+  name: show_media
+  label: Show media
