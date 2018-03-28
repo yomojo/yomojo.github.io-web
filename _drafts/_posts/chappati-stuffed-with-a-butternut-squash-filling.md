@@ -57,10 +57,14 @@ Time to make the stuffed chapatis with the butternut squash filling. Take your t
 
 ### Method
 
-1. Heat a large flat pan It needs to be very hot—so be careful!
+1. Heat a large flat pan It needs to be very hot—**so be careful**!
 2. While the pan is heating—roll out the first chapati. 
 3. Take a small ball of dough about the size of a tangerine. Dip the dough ball into some flour. Begin to rollout the chapati on the rolling surface—until you have a thin round chapati. About a 2mm thick.
 4. Take about 1 tbsp of filling and spread it on one side of the chapati. Remember to leave space around the edges for you to seal it. You might need to experiment with the quantity of filling, as it will depend on the size of chapati you have rolled out.
 5. Fold the chapati in half and press the edges together.
 6. The pan should be hot—**be careful**!
-7. Place the chapati on the hot pan
+7. Place the chapati on the hot pan and let it cook for about a minute. The cooked side should have a light brown colour and it should looked evenly cooked. Flip it over and cook the second side. I used a wooden tool to apply a little pressure to the chapati  but you could use a cloth or wooden spoon.
+8. Once both sides have cooked just hold the sealed edge and place the bottom edge briefly on the hot pan to cook the edge. 
+9. Repeat steps 3 to 8 until you run out of dough or filling.
+
+I've tried to make the process of making stuffed chapatis as easy as possible. If you get stuck somewhere please let me know.
