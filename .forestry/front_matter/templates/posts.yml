@@ -77,11 +77,9 @@ fields:
   type: textarea
   hidden: false
   default: ''
-- name: assets
+- type: file
+  name: assets
   label: Assets
-  type: text
-  hidden: false
-  default: ''
 - name: media
   label: Media
   type: text
