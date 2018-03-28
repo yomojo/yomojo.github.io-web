@@ -41,21 +41,17 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: first_image
+- type: file
+  name: first_image
   label: First image
-  type: text
-  hidden: false
-  default: ''
-- name: second_image
+- type: file
+  name: second_image
   label: Second image
-  type: text
-  hidden: false
-  default: ''
 - name: weight
   label: Weight
   type: text
   hidden: false
-  default: 0.0
+  default: 0
 - name: excerpt
   label: Excerpt
   type: textarea
