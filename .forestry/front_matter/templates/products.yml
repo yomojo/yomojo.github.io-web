@@ -1,0 +1,98 @@
+---
+pages:
+- _products/fab03.markdown
+- _products/fab02.markdown
+- _products/fab01.markdown
+- _products/chocolate-mulberries.markdown
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: name
+  label: Name
+  type: text
+  hidden: false
+  default: ''
+- name: price
+  label: Price
+  type: text
+  hidden: false
+  default: '0.0'
+- name: order
+  label: Order
+  type: textarea
+  hidden: false
+  default: ''
+- name: sku
+  label: Sku
+  type: text
+  hidden: false
+  default: ''
+- name: first_image
+  label: First image
+  type: text
+  hidden: false
+  default: ''
+- name: second_image
+  label: Second image
+  type: text
+  hidden: false
+  default: ''
+- name: weight
+  label: Weight
+  type: text
+  hidden: false
+  default: 0.0
+- name: excerpt
+  label: Excerpt
+  type: textarea
+  hidden: false
+  default: ''
+- name: quote
+  label: Quote
+  type: textarea
+  hidden: false
+  default: ''
+- name: packsize
+  label: Packsize
+  type: text
+  hidden: false
+  default: ''
+- name: offer
+  label: Offer
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: product
+- name: quoteperson
+  label: Quoteperson
+  type: text
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: "/products/:title/"
+- name: message
+  label: Message
+  type: text
+  hidden: false
+  default: ''
