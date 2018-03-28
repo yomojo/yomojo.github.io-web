@@ -12,7 +12,7 @@ media: ''
 ---
 This is my take on a popular Indian dish. The stuffing is normally made from lentils, sweetened with lots of sugar and there is quite a bit of fat. It's taken me a few months to rethink it but it's worked out really well and it's a much healthier way to make them. The stuffed chapatis are also round—I've folded them in half to make rolling them out with filling less complicated, and I actually think it works better this way.
 
-![](/uploads/plate-of-stuffed-chapatis.jpeg)
+![Stuffed chapatis with a butternut squash filling](/uploads/plate-of-stuffed-chapatis.jpeg "Stuffed chapatis with a butternut squash filling")
 
 There are three parts to this recipe. They are not complicated but can take a bit of time if you've never made anything like this. If you've made chapatis before, then it should be really easy.
 
@@ -25,7 +25,7 @@ There are three parts to this recipe. They are not complicated but can take a bi
 * Cardamon
 * Fennel seeds
 
-![](/uploads/butternut-squash.jpeg)
+![Butternut squash](/uploads/butternut-squash.jpeg "Butternut squash")
 
 I've not stated any quantities because it will depend on the size of the butternut squash you use, how sweet and intense you want the flavours of the filling you want.
 
