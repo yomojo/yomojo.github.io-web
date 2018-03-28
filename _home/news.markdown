@@ -1,6 +1,6 @@
 ---
 title: Noshbites and Skin Food
-date: 2018-03-26 17:00:00 +01:00
+date: 2018-03-26 16:00:00 +0000
 tags:
 - news
 excerpt: "New chocolate mulberry boxes are available online. I've made them to as
@@ -9,8 +9,7 @@ excerpt: "New chocolate mulberry boxes are available online. I've made them to a
   other Noshbites I make too…"
 layout: post
 ---
-
-Sadly I have stopped producing the Coconut & Cacao Noshbites and Lemon & Ginger Noshbites. This was because it was difficult to produce them consistently at a price point that would sell. For a long while I was swallowing the cost of using Medjool dates and I could not sustain it long term. I looked for alternative dates to use but it was not possible to create the same flavour and texture. I'm sorry but I need to be realistic about what I can and cannot do with the resources I have.
+Sadly I have stopped producing the Coconut & Cacao Noshbites and Lemon & Ginger Noshbites. It was difficult to produce them consistently at a price point that would sell. For a long while I was swallowing the cost of using Medjool dates and I could not sustain it long term. I looked for alternative dates to use but it was not possible to create the same flavour and texture. I'm sorry but I need to be realistic about what I can and cannot do with the resources I have.
 
 #### FAB Skincare
 
@@ -23,4 +22,5 @@ I have been using FAB for washing, moisturising, shaving, getting rid of a crack
 FAB is a range of skincare that is made with plantbased ingredients and tested on humans only.
 
 ##### @veganpigeon
+
 > Love the oil, makes my skin feel really great. The oil is amazing.
