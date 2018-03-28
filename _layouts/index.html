@@ -101,14 +101,12 @@ layout: default
                 
 <iframe src="{{ post.media }}" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-{% else %}
- {% if post.assets %}
+ {% elsif post.assets %}
           
 <a href="{{ post.url }}" class="post-image-link">
  <img src="{{ post.assets }}" alt="{{ post.title }}" />
 </a>
 {% endif %}
-        {% endif %}
             <div class="grid-content">
                 <h3 class="title is-5 no-top-margin"><a href="{{ post.url }}">{{ post.title }}</a></h3>
                 <p>

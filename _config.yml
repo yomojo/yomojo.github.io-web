@@ -49,7 +49,7 @@ defaults:
     permalink: "/journal/:title/"
     layout: post
     categories: ''
-    assets: ''
+    assets: 
     excerpt: ''
 author: Rajiv Shah
 url: https://yomojo.co.uk
