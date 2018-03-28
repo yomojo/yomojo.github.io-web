@@ -1,11 +1,15 @@
 ---
 title: Fermented Veg
-date: 2017-09-15 11:13:00 +01:00
+date: 2017-09-15 10:13:00 +0000
 categories:
 - baked
 excerpt: Making fermented veg is easy. It even passes the 'mum' test!
 media: https://player.vimeo.com/video/233851948
 layout: post
+show_media: true
+description: ''
+assets: ''
+permalink: "/journal/:title/"
 ---
 
 Why would you want to make it? It tastes so much better when you make it yourself. The fermented veg you buy in shops is pasteurised and so all the goodness from the fermentation is lost. Oh and another thing—it passes the **'mum' test** with flying colours!
