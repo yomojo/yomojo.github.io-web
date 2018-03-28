@@ -97,11 +97,11 @@ layout: default
    {% for post in site.categories.baked limit:12 %}
       
                <div class="container is-fluid is-grid content is-size-6">  
-                {% if post.media %}  
+                {% if post.show_media %}  
                 
 <iframe src="{{ post.media }}" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
- {% elsif post.assets %}
+ {% else post.assets %}
           
 <a href="{{ post.url }}" class="post-image-link">
  <img src="{{ post.assets }}" alt="{{ post.title }}" />

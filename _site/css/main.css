@@ -1,0 +1,400 @@
+/* ======== add custom css ======== */
+
+@font-face {
+    font-family: 'alma_monobold';
+    src: url('fonts/almamono-bold-webfont.woff2') format('woff2'),
+         url('fonts/almamono-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'alma_monoheavy';
+    src: url('fonts/almamono-heavy-webfont.woff2') format('woff2'),
+         url('fonts/almamono-heavy-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'alma_monolight';
+    src: url('fonts/almamono-light-webfont.woff2') format('woff2'),
+         url('fonts/almamono-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'alma_monoregular';
+    src: url('fonts/almamono-regular-webfont.woff2') format('woff2'),
+         url('fonts/almamono-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'alma_monothin';
+    src: url('fonts/almamono-thin-webfont.woff2') format('woff2'),
+         url('fonts/almamono-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'A Love of Thunder';
+	src: url('https://s3-eu-west-1.amazonaws.com/yomojo/fonts/ALoveofThunder.eot');
+	src: url('https://s3-eu-west-1.amazonaws.com/yomojo/fonts/ALoveofThunder.eot?#iefix') format('embedded-opentype'),
+		url('https://s3-eu-west-1.amazonaws.com/yomojo/fonts/ALoveofThunder.woff') format('woff'),
+		url('https://s3-eu-west-1.amazonaws.com/yomojo/fonts/ALoveofThunder.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+p, ul, table, ol, li {
+    font-family: 'alma_monoregular'; 
+}
+
+/* Hug the block above you */
+
+.hug, .hug h2 {
+    margin-top: 0;
+}
+
+article.is-post h3 {
+    font-size: 1.5rem;
+}
+
+.yellow-band {
+    background-color: #f4cf0a;
+}
+
+.cream-band {
+    background-color: #f1eee4;
+}
+
+.teal-band {
+    background-color: #6cc5bf;
+}
+
+.black-band {
+    background-color: #000;
+    color: #fff;
+}
+
+.black-band h2, .black-band h3, .black-band h4, .black-band p, .black-band strong {
+    color: #fff;
+}
+
+article {
+    margin-bottom: 1.5rem;
+}
+a {
+    color: #222;
+}
+
+div.home p {
+    font-family: 'alma_monobold';
+}
+
+div.container.home h1 {
+    color: #fff;
+}
+
+div.container.home p {
+    font-weight: 600;
+    font-size: 1.2rem;
+    background: #fff;
+    opacity: 0.6;
+}
+
+p a:hover, .is-post p a, .is-post ul a {
+    border-bottom: 1px solid #222;
+    color: #21add7;
+}
+
+.shop-news h5 {
+    color: #fff;
+    font-size: 0.75rem;
+    font-family: 'A Love of Thunder';
+}
+
+blockquote {
+    margin-top: 0;
+}
+
+blockquote p {
+    margin-top: 0;
+    font-size: 1.5rem;
+    line-height: 1.65rem; 
+}
+
+.content blockquote {
+    background-color: transparent;
+}
+
+.container p em strong {
+    color: #e64420;
+}
+
+.content.is-small blockquote p {
+    margin-top: 0;
+    font-size: 0.85rem;
+    line-height: 1.15rem;
+    font-family: 'A Love of Thunder';
+}
+
+.content.is-small blockquote h5 {
+    font-size: 0.707rem;
+}
+
+.shop blockquote p {
+    width: 65%;
+    font-size: 1.5rem;
+    line-height: 1.65rem;
+    font-family: 'A Love of Thunder';
+}
+
+h4.quote {
+    font-size: 0.707rem;
+    margin-bottom: 0;
+}
+
+.no-top-margin {
+    margin-top: 0;
+}
+
+.no-padding {
+    padding: 0;
+}
+
+.is-margin-bottom, .is-post p, iframe {
+    margin-bottom: 1.5rem;
+}
+
+.is-caps {
+    text-transform: uppercase;
+}
+
+
+.is-ad-1 .is-podcast p, .is-ad-1 .is-shop p, .is-ad-2 p {
+
+    font-family: 'alma_monoregular';
+}
+
+.button {
+    font-family: 'alma_monoregular';
+}
+
+.is-ad-1 .is-shop p {
+    color: #222;
+}
+
+.is-shop h2 {
+    color: #db4500;
+    font-size: 0.75rem;
+    font-family: 'A Love of Thunder';
+}
+
+.is-buy {
+    background-color: #e64420;
+    color: #fff;
+    font-weight: 600;
+    font-family: "Helvetica Neue", "Helvetica", "Arial" sans-serif;
+}
+
+.is-ad-1 {
+  background-color: #fff1de;
+  background-image: url(https://s3-eu-west-1.amazonaws.com/yomojo/texture-wall.png);
+  font-family: 'A Love of Thunder';
+  color: #bc3736;
+}
+
+.is-ad-1 h2 {
+  font-size: 2.375rem;
+letter-spacing: -0.0375rem;
+line-height: 3.25rem;
+font-weight: bold;
+color: #222324;
+}
+  
+.is-ad-2 {
+background-color: #ffe201;
+background-image: url(https://s3-eu-west-1.amazonaws.com/yomojo/texture-wall.png);
+color: #592d04;
+}
+
+.is-ad-2 h2 {
+font-family: 'A Love of Thunder';
+font-size: 1.375rem;
+line-height: 2.0625rem;
+font-weight: bold;
+color: #222;
+}
+
+.is-ad-1 p, .is-ad-1 ul, .is-ad-2 ul {
+    font-family: 'A Love of Thunder';
+}
+
+.order {
+    width: 254px;
+    margin-bottom: 0.75rem;
+}
+
+.offer {
+color: #42afe3;
+}
+
+.freeshipping {
+color: #f0c70e;
+font-style: italic;
+}
+
+.divider {
+height: 0;
+border-top: 2px solid #fff;
+margin-top: 6rem;
+width: 39%;
+}
+
+#info,
+#info p, #info h3 {
+font-family: 'alma_monoregular';
+text-transform: uppercase;
+}
+
+.title.is-white,
+.subtitle.is-white, .txt-white {
+    color: #fff;
+}
+
+.title.is-black,
+.subtitle.is-black, .txt-black {
+    color: #000;
+}
+
+.is-dark a:hover {
+    color: #fff;
+}
+
+.is-alert {
+    color: #e64420;
+}
+
+div.ecwid-minicart span.ecwid-minicart-label-text {
+  display:none;
+}
+
+div.order div {
+    margin: 0;
+}
+
+table td, table th {
+    line-height: 1rem;
+}
+
+
+.clear:before,
+.clear:after {
+    content: "\0020";
+    display: block;
+    height: 0;
+    visibility: hidden;
+}
+
+.clear:before,
+.clear:after {
+    clear: both;
+}
+
+.hero-image {
+    background: url("/images/spelt-pizza-with-spinach-and-broccoli.jpeg") no-repeat;
+    background-size: cover;
+}
+
+.noshbite-image {
+    background: url("/images/choc-mulberry-box.jpeg") no-repeat;
+    background-size: cover;
+}
+
+#grid[data-columns]::before {
+    content: '3 .grid.size-1of3';
+}
+
+@media screen and (max-width: 480px) {
+    #grid[data-columns]::before {
+        content: '1 .grid.size-10f1';
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    #grid[data-columns]::before {
+        content: '1 .grid.size-1of1';
+    }
+}
+
+@media screen and (min-width: 769px) {
+    #grid[data-columns]::before {
+        content: '3 .grid.size-1of3';
+    }
+}
+
+.grid {
+    float: left;
+}
+
+.size-1of1 {
+    width: 100%;
+}
+
+.size-1of2 {
+    width: 50%;
+}
+
+.size-1of3 {
+    width: 33.333%;
+}
+
+.size-1of4 {
+    width: 25%;
+}
+
+.is-grid {
+    margin: 5% 5%;
+    border: 1px solid #eaeaea;
+}
+
+.grid-content {
+    padding: 5%;
+    padding-top: 0;
+}
+
+.quote-content {
+    padding: 5% 0;
+}
+
+.masonry {
+    padding-bottom: 5%;
+}
+
+.fourOhfour {
+    background: #9961c9;
+    color: #fff;
+}
+
+footer#info a.flink {
+    color: #21add7;
+}
+
+footer#info a:hover.flink {
+    color: #fff;
+    text-decoration: underline;
+}
+
+h3 a:hover {
+    color: #21add7;
+}
