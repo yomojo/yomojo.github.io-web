@@ -81,11 +81,9 @@ fields:
 - type: file
   name: assets
   label: Assets
-- name: media
+- type: text
+  name: media
   label: Media
-  type: text
-  hidden: false
-  default: ''
 - name: layout
   label: Layout
   type: text
