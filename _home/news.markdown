@@ -5,7 +5,7 @@ tags:
 - news
 excerpt: "New chocolate mulberry boxes are available online. I've made them to as
   cheap as buying a retail tub. Postage is included in the price! It's only £10.00
-  for a 280g box delivered anywhere in the UK mainland. \n\nThere is news about the
+  for a 300g box delivered anywhere in the UK mainland. \n\nThere is news about the
   other Noshbites I make too…"
 layout: post
 ---
