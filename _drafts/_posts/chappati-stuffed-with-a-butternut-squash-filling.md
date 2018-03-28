@@ -44,12 +44,12 @@ I've not stated any quantities because it will depend on the size of the buttern
  7. Add some cardamon—be careful how much you add because you easily use too much. Start off with a ¼ tsp.
  8. Add 1 tsp of fennel seeds.
 
-    ![](/uploads/butternut-squash-pan.jpeg)
+    ![Cooked butternut squash ready to be mashed](/uploads/butternut-squash-pan.jpeg "Cooked butternut squash ready to be mashed")
  9. Add some saffron—a good pinch. The best way to add it, is first to heat a tablespoon gently, place the saffron in the spoon and let them 'dry' from the heat of the spoon. You can then crumble the saffron between your fingers and add them to the pan.
 10. Start to mash the butternut squash chunks. You could do this in a blender or food processor. If you have a potato masher it should work fine. Once it's all mashed up—you should have a smooth filling. Check the flavours and sweetness—adjust accordingly if needed.
 11. Let the filling cool.
 
-![](/uploads/butternut-squash-filling.jpeg)
+![Sweet butternut squash filling](/uploads/butternut-squash-filling.jpeg "Sweet butternut squash filling")
 
 Now to make the chapatis. If you've made them before, you can skip the instructions below and just go on to the third part.
 
@@ -65,11 +65,11 @@ Now to make the chapatis. If you've made them before, you can skip the instructi
 2. Add 1 tbsp of olive oil and rub it into the flour
 3. Add some warm water to the flour mixture but only a little at a time until most the flour just starts to stick together. Don't over add water—otherwise the dough will be too wet. Mix with a spoon.
 
-   ![](/uploads/chapati-dough.jpeg)
+   ![Making chapati dough](/uploads/chapati-dough.jpeg "Making chapati dough")
 4. Begin to kneed the dough for about five minutes with your hands.
 5. Let the dough rest for about ten minutes. It should be soft and have good elasticity.
 
-![](/uploads/chapati-dough-kneeded.jpeg)
+![Chapati dough](/uploads/chapati-dough-kneeded.jpeg "Chapati dough")
 
 Time to make the stuffed chapatis with the butternut squash filling. Take your time —get someone to help, one person can make the chapatis and the other can cook them. I use a small round wooden board to rollout the chapatis on but you can do it on any surface. I also use a special chapati rolling pin but you can use an ordinary rolling pin.
 
@@ -78,17 +78,23 @@ Time to make the stuffed chapatis with the butternut squash filling. Take your t
 1. Heat a large flat pan It needs to be very hot—**so be careful**!
 2. While the pan is heating—roll out the first chapati.
 
-   ![](/uploads/making-chapati.jpeg)
+   ![Rolling chapati](/uploads/making-chapati.jpeg "Rolling chapati")
 3. Take a small ball of dough about the size of a tangerine. Dip the dough ball into some flour. Begin to rollout the chapati on the rolling surface—until you have a thin round chapati. About a 2mm thick.
+
+   ![Filling chapati](/uploads/chapati-add-filling.jpeg "Filling chapati")
 4. Take about 1 tbsp of filling and spread it on one side of the chapati. Remember to leave space around the edges for you to seal it. You might need to experiment with the quantity of filling, as it will depend on the size of chapati you have rolled out.
 
-   ![](/uploads/chapati-add-filling.jpeg)
+   ![Folding chapati](/uploads/chapati-fold-sides.jpeg "Folding chapati")
 5. Fold the chapati in half and press the edges together.
 6. The pan should be hot—**be careful**!
 7. Place the chapati on the hot pan and let it cook for about a minute. The cooked side should have a light brown colour and it should looked evenly cooked. Flip it over and cook the second side. I used a wooden tool to apply a little pressure to the chapati  but you could use a cloth or wooden spoon.
+
+   ![Cooking chapati](/uploads/cooking-chapati-2.jpeg "Cooking chapati")
 8. Once both sides have cooked just hold the sealed edge and place the bottom edge briefly on the hot pan to cook the edge.
 9. Repeat steps 3 to 8 until you run out of dough or filling.
 
 I've tried to make the process of making stuffed chapatis as easy as possible. If you get stuck somewhere please let me know.
+
+![Stuffed chapati with a spicy curry](/uploads/stuffed-chapati-with-curry.jpeg "Stuffed chapati with a spicy curry")
 
 They are best eaten warm. I love them with a spicy curry—the sweet spicy flavours work so well together. They are great for sharing and especially when you have friends/family over.
