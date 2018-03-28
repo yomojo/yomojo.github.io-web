@@ -53,4 +53,10 @@ Now to make the chapatis. If you've made them before, you can skip the instructi
 4. Begin to kneed the dough for about five minutes.
 5. Let the dough rest for about ten minutes. It should be soft and have good elasticity.
 
-Time to make the stuffed chapatis with the butternut squash filling. Take your time —get someone to help, one person can make the chapatis and the other can cook them.
+Time to make the stuffed chapatis with the butternut squash filling. Take your time —get someone to help, one person can make the chapatis and the other can cook them. I use a small round wooden board to rollout the chapatis on but you can do it on any surface. I also use a special chapati rolling pin but you can use an ordinary rolling pin.
+
+### Method
+
+1. Heat a large flat pan It needs to be very hot—so be careful!
+2. While the pan is heating—roll out the first chapati. 
+3. Take a small ball of dough about the size of a tangerine. Begin to rollout the chapati. 
