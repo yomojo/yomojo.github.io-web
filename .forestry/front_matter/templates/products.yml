@@ -1,8 +1,8 @@
 ---
 pages:
-- _products/chocolate-mulberries.markdown
 - _products/fab03.markdown
 - _products/fab02.markdown
+- _products/chocolate-mulberries.markdown
 - _products/fab01.markdown
 hide_body: false
 fields:
