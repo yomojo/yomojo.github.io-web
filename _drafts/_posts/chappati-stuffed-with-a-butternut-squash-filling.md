@@ -35,10 +35,10 @@ I've not stated any quantities because it will depend on the size of the buttern
  2. Remove seeds from butternut squash and cut into medium sized chunks.
  3. Boil the butternut squash in a pan full of water until it just starts to give. This part is optional.
 
-    ![](/uploads/butternut-squash-boil.jpeg)
+    ![Boiling butternut squash](/uploads/butternut-squash-boil.jpeg "Boiling butternut squash")
  4. Place the butternut squash chunks in a large baking dish, drizzle with olive oil and bake at 200ºC or Gas 5 for about 30 minutes—until the chunks are soft. If you did not do step 3, then it will take longer for the chunks to go soft. Probably about an hour or so.
 
-    ![](/uploads/butternut-squash-baked.jpeg)
+    ![Baking butternut squash](/uploads/butternut-squash-baked.jpeg "Baking butternut squash")
  5. Put the chunks in a large pan.
  6. Add sweetener of choice. If it's liquid be careful not to make the filling to wet. I would probably add a liquid sweetener once the mixture is nearly ready to use.
  7. Add some cardamon—be careful how much you add because you easily use too much. Start off with a ¼ tsp.
