@@ -5,7 +5,7 @@ categories:
 - baked
 assets: ''
 excerpt: ''
-title: Chapati Stuffed With a Butternut Squash Filling
+title: Chapati Stuffed With a Sweet Butternut Squash Filling
 date: 2018-03-28 00:00:00 +0000
 description: ''
 media: ''
@@ -52,3 +52,5 @@ Now to make the chapatis. If you've made them before, you can skip the instructi
 3. Add some warm water to the flour mixture but only a little at a time until most the flour just starts to stick together. Don't over add water—otherwise the dough will be too wet.
 4. Begin to kneed the dough for about five minutes.
 5. Let the dough rest for about ten minutes. It should be soft and have good elasticity.
+
+Time to make the stuffed chapatis with the butternut squash filling. Take your time —get someone to help, one person can make the chapatis and the other can cook them.
