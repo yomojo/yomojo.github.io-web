@@ -4,7 +4,8 @@ layout: post
 categories:
 - baked
 assets: "/uploads/plate-of-stuffed-chapatis.jpeg"
-excerpt: ''
+excerpt: An easy way to make a sweet stuffed chapati, that is more healthy than the
+  traditional version—this one uses butternut squash for the filling.
 title: Chapati Stuffed With a Sweet Butternut Squash Filling
 date: 2018-03-28 00:00:00 +0000
 description: ''
