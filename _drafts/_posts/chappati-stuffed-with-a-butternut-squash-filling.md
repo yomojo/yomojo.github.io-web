@@ -38,3 +38,17 @@ I've not stated any quantities because it will depend on the size of the buttern
 10. Let the filling cool.
 
 Now to make the chapatis. If you've made them before, you can skip the instructions below and just go on to the third part.
+
+### Chapati Ingredients
+
+* Chapati flour or a bread flour
+* Olive oil
+* Warm water
+
+### Method
+
+1. Add 2 cups of chapati flour to a large mixing bowl
+2. Add 1 tbsp of olive oil and rub it into the flour
+3. Add some warm water to the flour mixture but only a little at a time until most the flour just starts to stick together. Don't over add water—otherwise the dough will be too wet.
+4. Begin to kneed the dough for about five minutes.
+5. Let the dough rest for about ten minutes. It should be soft and have good elasticity.
