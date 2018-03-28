@@ -68,3 +68,5 @@ Time to make the stuffed chapatis with the butternut squash filling. Take your t
 9. Repeat steps 3 to 8 until you run out of dough or filling.
 
 I've tried to make the process of making stuffed chapatis as easy as possible. If you get stuck somewhere please let me know.
+
+They are best eaten warm. I love them with a spicy curry—the sweet spicy flavours work so well together. They are great for sharing and especially when you have friends/family over.
