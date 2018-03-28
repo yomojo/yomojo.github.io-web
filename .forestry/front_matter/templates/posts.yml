@@ -81,9 +81,6 @@ fields:
 - type: file
   name: assets
   label: Assets
-- type: text
-  name: media
-  label: Media
 - name: layout
   label: Layout
   type: text
