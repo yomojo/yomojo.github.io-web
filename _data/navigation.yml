@@ -1,0 +1,11 @@
+header:
+- title: Home
+  url: "/"
+- title: Interviews
+  url: "/interviews/"
+- title: Baked Not Fried
+  url: "/baked/"
+- title: Noshbites
+  url: "/noshbites/"
+- title: Skin Food
+  url: "/skinfood/"

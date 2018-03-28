@@ -1,0 +1,70 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="/css/bulma.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/interval" type="text/css"/>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+<script src="/js/vendor/modernizr-2.8.3.min.js"></script>
+{% seo %}
+</head>
+
+{% if page.url == '/' %}
+    {% assign page_handle = 'home' %}
+  {% elsif page.url == '/interviews/' %}
+    {% assign page_handle = 'interviews' %}
+  {% elsif page.url == '/noshbites/' %}
+    {% assign page_handle = 'noshbites' %}
+  {% elsif page.url == '/skinfood/' %}
+    {% assign page_handle = 'skinfood' %}
+  {% elsif page.url == '/journal/' %}
+    <!-- blog index -->
+    {% assign page_handle = 'journal' %}
+  {% elsif page.url contains '/blog/' %}
+    <!-- blog permalink -->
+    {% assign page_handle = 'permalink' %}
+  {% elsif page.is_404 %}
+    {% assign page_handle = 'fourOhFour' %}
+  {% else %}
+    {% assign page_handle = 'page' %}
+  {% endif %}
+
+<body class="{{ page_handle }}">
+
+{% include header.html %}
+
+{% include banner.html %}
+
+
+    {{ content }}
+
+
+{% include footer.html %}
+
+
+   <script>var $=jQuery.noConflict();</script>
+    <script src="/js/plugins.js"></script>
+    <script src="/js/main.js"></script>
+    <script src="/js/bulma.js"></script>
+    <script src="/js/salvattore.min.js"></script>
+    <script type="text/javascript" src="https://app.ecwid.com/script.js?11508347&data_platform=singleproduct_v2" charset="utf-8"></script>
+    <script type="text/javascript">xProduct()</script>
+</body>
+
+</html>

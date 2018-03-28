@@ -1,0 +1,94 @@
+
+ {% if page.url == '/' %}
+   {% for post in site.home %}
+       {% if post.tags contains 'home' %}
+<section class="hero is-large hero-image is-left">
+    <div class="hero-body">
+        <div class="container home content is-size-1-desktop">
+          
+          {% if post.excerpt %} 
+                {{ post.excerpt  }} 
+                {% else %} 
+                {{ post.body }} 
+            {% endif %}
+           
+        </div>
+    </div>
+</section>
+    {% endif %}
+    {% endfor %}
+        {% endif %}
+        
+{% if page.url == '/noshbites/' %}
+<section class="hero is-large noshbite-image is-left">
+    <div class="hero-body">
+        <div class="container">
+         {% for post in site.noshbites %}
+                       {% if post.tags contains 'intro' %}
+                
+            <h1 class="txt-white is-size-1">{{ post.content | strip_html }}</h1>
+             <h4 class="txt-white">{{post.excerpt }}</h4> 
+                                 
+      <div class="divider"></div>
+      
+       <p class="freeshipping">
+           {{ post.free_shipping }}
+            </p>
+                {% endif %}
+                    {% endfor %}
+            
+        </div>
+    </div>
+</section>
+
+{% endif %} 
+
+{% if page.url == '/skinfood/' %}
+<section class="hero yellow-band is-left">
+    <div class="hero-body">
+        <div class="container">
+          {% for post in site.skinfood %}
+                       {% if post.tags contains 'intro' %}
+                
+            <h1 class="is-size-1">{{ post.content | strip_html }}</h1>
+             <h4><strong>{{post.def_title }}</strong></h4>
+            <p>{{ post.def }}</p> 
+                                 
+      <div class="divider"></div>
+      
+       <h4>{{post.excerpt }}</h4>
+                {% endif %}
+                    {% endfor %}
+            
+        </div>
+    </div>
+</section>
+
+{% endif %} 
+
+{% if page.url == '/interviews/' %}
+<section class="hero is-danger is-left">
+    <div class="hero-body">
+        <div class="container">
+        <h1 class="is-size-1">
+           I hope the interviews offer you a glimse into the life of someone eating plant based foods—how each person is different, and how they can inspire us to think differently about our lives.      
+            </h1>
+ 
+        </div>
+    </div>
+</section>
+{% endif %}
+
+
+{% if page.url == '/baked/' %}
+<section class="hero is-success is-left">
+    <div class="hero-body">
+        <div class="container">
+
+            <h1 class="is-size-1">
+Recipes, yoga, bicyles, thoughts, ideas and news to inspire you, feed you and challenge you.
+            </h1>
+        </div>
+    </div>
+</section>
+{% endif %}       

@@ -1,0 +1,17 @@
+<div class="tile is-child">
+      <img class="image-is-square" src="{{ product.first_image }}" alt="{{ product.name }}"/>
+
+        <h3 class="title">{{ product.name }}</h3>
+
+      <p>{{ product.packsize }}</p>
+  <a class="button is-medium is-buy" href="{{product.url }}"
+    data-item-name="{{ product.name }}"
+    data-item-id="{{ product.sku }}"
+    data-item-image="{{ product.image }}"
+    data-item-url="{{ site.url }}{{product.url }}"
+    data-item-amount="{{ product.price }}"
+    data-item-custom1-name="Notes or instructions (optional)"
+    data-item-custom1-type="textarea">
+    Order
+  </a>
+</div>

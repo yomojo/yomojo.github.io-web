@@ -1,0 +1,16 @@
+   {% assign post = include.post %}
+   <section class="section">
+    <div class="container">
+        <div class="columns">       
+            <div class="column is-post">
+                <h1 class="is-margin-bottom">{{post.title}}</h1> 
+                <p>
+                    <i><span class="title is-5 no-top-margin is-caps"> {{{{post.date | date: "%d %-B %Y" }}</span></i>
+                </p>
+                
+                {{ content }}
+                
+            </div>
+        </div>
+    </div>
+</section>

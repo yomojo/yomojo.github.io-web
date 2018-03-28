@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+ <section class="section">
+        <div class="container">
+
+            <div class="columns is-post">
+                <div class="column is-4">
+                  
+                   <img src="{{ page.first_image }}" alt="{{ page.name }}" class="thumbnail"/>
+                   
+                    {% if page.tags contains 'image2' %}
+                   <img src="{{ page.second_image }}" alt="{{ page.name }}" class="thumbnail"/>
+                   {% endif %}
+                  
+                </div>
+                
+                <div class="column is-6 content is-medium">
+
+                    <h1 class="is-caps is-5">
+                        {{ page.name }}
+                    </h1>
+   <p>{{ page.packsize }}</p>
+   <div class="order">{{ page.order }}</div>
+            
+             {% if page.tags contains 'offer' %}
+              <p class="offer has-text-weight-bold is-size-7">{{ page.offer }} </p>
+              {% endif %}
+              {% if page.tags contains 'message' %}
+              <p class="notification is-danger is-size-6 has-text-weight-bold">{{ page.message }}</p>
+              {% endif %}
+              <div class="content is-small">
+              {{ page.excerpt | markdownify }}
+                    </div>
+                
+               {% if page.tags contains 'quote' %}
+               <h4 class="quote">{{ page.quoteperson }}</h4>
+                <blockquote>
+                    <p  class="content is-medium">“{{ page.quote }}”</p>
+                    </blockquote>
+               {% endif %}
+     
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+   {% if page.tags contains 'noshbites' %}
+   <section class="section cream-band">
+    <div class="container content is-medium-desktop">
+        <div class="columns">       
+            <div class="column is-post"> 
+                
+                {{page.content}}
+                          
+            </div>
+        </div>
+    </div>
+</section>
+{% endif %}
+
+   {% if page.tags contains 'fab' %}
+   <section class="section black-band">
+    <div class="container content is-medium-desktop">
+        <div class="columns">       
+            <div class="column is-post"> 
+                
+                {{page.content}}
+                          
+            </div>
+        </div>
+    </div>
+</section>
+{% endif %}
