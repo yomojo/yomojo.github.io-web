@@ -25,7 +25,7 @@ There are three parts to this recipe. They are not complicated but can take a bi
 * Sweetner of choice
 * Saffron
 * Cardamon
-* Fennel seeds
+* Caraway seeds
 
 ![Butternut squash](/uploads/butternut-squash.jpeg "Butternut squash")
 
@@ -44,7 +44,7 @@ I've not stated any quantities because it will depend on the size of the buttern
  5. Put the chunks in a large pan.
  6. Add sweetener of choice. If it's liquid be careful not to make the filling to wet. I would probably add a liquid sweetener once the mixture is nearly ready to use.
  7. Add some cardamon—be careful how much you add because you easily use too much. Start off with a ¼ tsp.
- 8. Add 1 tsp of fennel seeds.
+ 8. Add 1 to 2 tsp of caraway seeds.
 
     ![Cooked butternut squash ready to be mashed](/uploads/butternut-squash-pan.jpeg "Cooked butternut squash ready to be mashed")
  9. Add some saffron—a good pinch. The best way to add it, is first to heat a tablespoon gently, place the saffron in the spoon and let them 'dry' from the heat of the spoon. You can then crumble the saffron between your fingers and add them to the pan.
