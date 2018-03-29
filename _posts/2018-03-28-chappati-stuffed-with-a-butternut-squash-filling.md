@@ -20,7 +20,7 @@ There are three parts to this recipe. They are not complicated but can take a bi
 
 ### Butternut Squash Filling—Ingredients
 
-* Butternut squash
+* Butternut squash or pumpkin
 * Olive oil
 * Sweetner of choice
 * Saffron
