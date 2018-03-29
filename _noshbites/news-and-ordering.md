@@ -9,7 +9,7 @@ date: 2018-03-28 15:27:23 +0000
 
 The Chocolate Mulberry Noshbites are available in a 105g tubs from Leicester Wholefoods or Currant Affairs. The 300g boxes are only available online.
 
-Postage is via Royal Mail 1st Class. Orders are posted Monday to Thursday only.
+Postage is via Royal Mail 1st Class. Orders are posted Monday to Thursday only. Each order is freshly made on the day of postage  or the night before.
 
 ##### ordering
 
