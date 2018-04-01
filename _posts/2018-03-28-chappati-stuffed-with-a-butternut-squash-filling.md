@@ -22,14 +22,14 @@ There are three parts to this recipe. They are not complicated but can take a bi
 
 * Butternut squash or pumpkin
 * Olive oil
-* Sweetner of choice
+* Sweetener of choice
 * Saffron
 * Cardamon
 * Caraway seeds
 
 ![Butternut squash](/uploads/butternut-squash.jpeg "Butternut squash")
 
-I've not stated any quantities because it will depend on the size of the butternut squash you use, how sweet and intense you want the flavours of the filling you want.
+I've not stated any quantities because it will depend on the size of the butternut squash you use, how sweet and intense you want the flavours of the filling.
 
 ### Method
 
@@ -42,7 +42,7 @@ I've not stated any quantities because it will depend on the size of the buttern
 
     ![Baking butternut squash](/uploads/butternut-squash-baked.jpeg "Baking butternut squash")
  5. Put the chunks in a large pan.
- 6. Add sweetener of choice. If it's liquid be careful not to make the filling to wet. I would probably add a liquid sweetener once the mixture is nearly ready to use.
+ 6. Add sweetener of choice. If it's liquid be careful not to make the filling too wet. I would probably add a liquid sweetener once the mixture is nearly ready to use.
  7. Add some cardamon—be careful how much you add because you easily use too much. Start off with a ¼ tsp.
  8. Add 1 to 2 tsp of caraway seeds.
 
@@ -68,12 +68,12 @@ Now to make the chapatis. If you've made them before, you can skip the instructi
 3. Add some warm water to the flour mixture but only a little at a time until most the flour just starts to stick together. Don't over add water—otherwise the dough will be too wet. Mix with a spoon.
 
    ![Making chapati dough](/uploads/chapati-dough.jpeg "Making chapati dough")
-4. Begin to kneed the dough for about five minutes with your hands.
+4. Begin to knead the dough for about five minutes with your hands.
 5. Let the dough rest for about ten minutes. It should be soft and have good elasticity.
 
 ![Chapati dough](/uploads/chapati-dough-kneeded.jpeg "Chapati dough")
 
-Time to make the stuffed chapatis with the butternut squash filling. Take your time —get someone to help, one person can make the chapatis and the other can cook them. I use a small round wooden board to rollout the chapatis on but you can do it on any surface. I also use a special chapati rolling pin but you can use an ordinary rolling pin.
+Time to make the stuffed chapatis with the butternut squash filling. Take your time —get someone to help, one person can make the chapatis and the other can cook them. I use a small round wooden board to roll out the chapatis on but you can do it on any surface. I also use a special chapati rolling pin but you can use an ordinary rolling pin.
 
 ### Method
 
