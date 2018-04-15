@@ -52,6 +52,7 @@ pages:
 - _posts/2015-06-17-one-minute-rule.markdown
 - _posts/2015-06-12-sophia-fine-art-student.markdown
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title

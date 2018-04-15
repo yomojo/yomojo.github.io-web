@@ -38,6 +38,9 @@ quoteperson: mykitchari on Instagram
 packsize: 10ml/20ml Bottle
 offer: A 10% discount has been applied to the retail price.
 layout: productdetails
+date: 2018-04-15 17:02:30 +0000
+permalink: "/products/:title/"
+message: ''
 ---
 
 Made with simple, finest quality, plant-based ingredients. FAB_01 Oil is only made in limited batches. 

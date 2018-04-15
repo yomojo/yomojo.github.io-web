@@ -1,10 +1,11 @@
 ---
 pages:
-- _products/fab02.markdown
 - _products/fab01.markdown
+- _products/fab02.markdown
 - _products/fab03.markdown
 - _products/chocolate-mulberries.markdown
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
