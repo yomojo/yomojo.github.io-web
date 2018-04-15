@@ -42,7 +42,7 @@ layout: productdetails
 
 Made with simple, finest quality, plant-based ingredients. FAB_01 Oil is only made in limited batches. 
 
-**Ingredients**: *Jojoba Butter, *Jojoba Oil, Sea Buckthorn, *Franckincense.  
+**Ingredients**: *Jojoba Oil, Sea Buckthorn, *Franckincense.  
 *Organic ingredient.
 
 Jojoba oil contains natural minerals and vitamins. The chemical profile of jojoba oil is like human sebum. Sea buckthorn is the richest oil on earth. It contains a high number of natural minerals and vitamins, and fatty acids. It has been used in Asia for 1,000 years. Frankincense has a fresh citrus type scent.
