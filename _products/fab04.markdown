@@ -3,7 +3,7 @@ title: FAB 04
 tags:
 - fab
 - message
-name: FAB_04 Deodarant
+name: FAB_04 Deodorant
 price: 10.65
 order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered
   ecwid-Product ecwid-Product-110524490" itemscope itemtype="http://schema.org/Product"
@@ -16,11 +16,11 @@ first_image: "/uploads/fab04-deodarant-5ml.jpeg"
 second_image: 
 weight: 130
 excerpt: |-
-  A deodarant made from natural oils, that does not block sweat pores on the skin. Perspiration is a natural homeostatic process, that secretes a salty fluid—why would you want to interfere with that? Which is what deodarants or antiperspirants made with lots of chemicals do—some even contain aluminium which is toxic. Sometimes that salty fluid can smell and FAB deodarant is a great way to clean the fluid and the sandalwood will leave a subtle beautiful smell on your armpit. FAB_04 deodarant does not feel greasy when applied. It's very concentrated and a little goes a long way.
+  A deodorant made from natural oils, that does not block sweat pores on the skin. Perspiration is a natural homeostatic process, that secretes a salty fluid—why would you want to interfere with that? Which is what deodarants or antiperspirants made with lots of chemicals do—some even contain aluminium which is toxic. Sometimes that salty fluid can smell and FAB deodarant is a great way to clean the fluid and the sandalwood will leave a subtle beautiful smell on your armpit. FAB_04 deodarant does not feel greasy when applied. It's very concentrated and a little goes a long way.
 
-  The FAB_04 deodarant will not interfere with your perfume or make-up. It's a unisex product. I use it everyday
+  The FAB_04 deodorant will not interfere with your perfume or make-up. It's a unisex product. I use it everyday
 
-  FAB_04 is scented with sandalwood, making it a great smelling deodarant. The 5ml pot is **transportable and easy to use**. Fab when you need to use it any time of the day.
+  FAB_04 is scented with sandalwood, making it a great smelling deodorant. The 5ml pot is **transportable and easy to use**. Fab when you need to use it any time of the day.
 quoteperson: 
 quote: 
 packsize: 5ml Jar - Sandalwood

@@ -7,7 +7,7 @@ position: 1
 
 ##### free delivery of orders over £25 in leicester
 
-FAB oil and butter are available in larger sizes and with new pricing. A new product had been added to the range—a natural deodarant.
+FAB oil and butter are available in larger sizes and with new pricing. A new product had been added to the range—a natural deodorant.
 
 Postage is via Royal Mail Signed For service.
 
