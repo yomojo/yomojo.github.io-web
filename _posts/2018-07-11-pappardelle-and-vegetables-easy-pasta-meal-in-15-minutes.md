@@ -11,7 +11,7 @@ description: ''
 media: ''
 show_media: false
 ---
-This is my take on a popular Indian dish. The stuffing is normally made from lentils, sweetened with lots of sugar and there is quite a bit of fat. It's taken me a few months to rethink it but it's worked out really well and it's a much healthier way to make them. The stuffed chapatis are also round—I've folded them in half to make rolling them out with filling less complicated, and I actually think it works better this way.
+Need to make a flavourful meal in about 15 minutes? Pasta and vegetables is one of my go to meals when time is short for cooking but I need big bold flavours, texture and it's got to have vegetables. I love pappardelle—it's so easy to cook with and you can use almost any kind of vegetable with it. Buy a good quality organic one if you can.
 
 ![Pappardelle with vegetables](/uploads/pappardelle-peppers-olives-1.jpeg "Pappardelle with vegetables")
 
@@ -26,8 +26,8 @@ There are two parts to this recipe. You can make both at the same time or start 
 * 1 tbsp apple cider vinegar
 * Sea salt to taste
 * Cracked black pepper to taste
-* Capers
-* Olives—I buy the ones in olive oil
+* Capers - optional
+* Olives—I buy the ones in olive oil - optional
 
 ### Method
 
@@ -42,12 +42,12 @@ Now to make the pasta. Pappardelle usually takes about seven minutes.
 ### Pappardelle
 
 * 4 pappardelle 'balls'
-* Boiling hot water
+* Boiling hot water to cover all the pasta
 
 ### Method
 
 1. Add the pappardelle to the boiling water
-2. Let it cook on a gentle boil for about seven minutes until al dente—firm but not crunchy. 
+2. Let it cook on a gentle boil for about seven minutes until al dente—firm but not crunchy. Gently stir the pasta
 4. Once done cool in cold water quickly.
 5. Turn the heat on for the vegetables to a medium setting. Add the cold pasta and gently toss everything to heat all the ingredients. Add more olive oil if needed. It should only take a few minutes.
 
