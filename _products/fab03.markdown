@@ -1,9 +1,9 @@
 ---
 title: FAB 03
 tags:
-- quote
 - fab
 - image2
+- message
 name: FAB_03 Butter
 price: 10.65
 order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered
@@ -17,24 +17,24 @@ first_image: "/uploads/fab03-butter-30ml.jpeg"
 second_image: "/uploads/fab03-butter-5ml.jpeg"
 weight: 130
 excerpt: |-
-  An all over face, body and hair butter. It does not feel greasy when applied. It's very concentrated and a little goes a long way.
+  An all over face and body butter. It does not feel greasy when applied. It's very concentrated and a little goes a long way.
 
   The FAB range will not interfere with your perfume or make-up. It's a multi-purpose, unisex product. You can use it on your:
   * Face
+  * Lips
   * Body
   * Nails
   * Cracked  or flaky skin
 
-  Use it for moisturising or washing. See instructions below.
+  FAB_03 is unscented, making it a great lip balm. The 5ml pot is **transportable and easy to use**. Fab when you need to mositurise your lips at any time of the day.
 
   The **double FAB method** is when you appy the butter first, and then the oil on top. Try this to give you super soft skin. Especially great for when you have really dry, flaky or cracked skin.
 
-  **Transportable and easy to use.**
-quote: Not greasy or sticky and the aroma is not big and overpowering but a soothing
-  lingering aroma and a little product goes a long way
-quoteperson: VeganOlive1 on Twitter
-packsize: 5g/30g Jar - Nautural unscented
-offer: A 10% discount has been applied to the retail price.
+quoteperson:
+quote:
+packsize: 5ml/90ml Jar - Nautural unscented
+offer: 
+message: Now available in 90ml size.
 layout: productdetails
 ---
 
@@ -43,16 +43,11 @@ Made with simple, finest quality, plant-based, ingredients. FAB_02 Butter is onl
 **Ingredients**: *Jojoba Butter, *Jojoba Oil.  
 *Organic ingredient.
 
-Jojoba oil contains natural minerals and vitamins. The chemical profile of jojoba oil is like human sebum. Sea buckthorn is the richest oil on earth. It contains a high number of natural minerals and vitamins, and fatty acids. It has been used in Asia for 1,000 years. Frankincense has a fresh citrus type scent.
+Jojoba oil contains natural minerals and vitamins. The chemical profile of jojoba oil is like human sebum.
 
 ***
 
 You only need to use a small amount of this butter. Don't use it like normal body butters and creams.
-
-**Instructions**:
-1. After showering, while you're still wet is the best time to use it.
-2. Scoop a tiny amount with your finger and melt into your palms. Then apply all over your body and face. The water will help the butter emulsify and spread over a large area. A little will go a very long way.
-3. Use it during the day on wet or dry skin.
 
 **Combine FAB Butter and Oil**
 1. Dab some oil first as per the instructions above, with or without wetting the skin.

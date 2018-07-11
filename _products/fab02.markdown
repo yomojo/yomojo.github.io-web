@@ -4,8 +4,9 @@ tags:
 - quote
 - fab
 - image2
+- message
 name: FAB_02 Butter
-price: 10.65
+price:
 order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered
   ecwid-Product ecwid-Product-97783768" itemscope itemtype="http://schema.org/Product"
   data-single-product-id="97783768"><div itemtype="http://schema.org/Offer" itemscope
@@ -33,8 +34,9 @@ excerpt: |-
 quote: Not greasy or sticky and the aroma is not big and overpowering but a soothing
   lingering aroma and a little product goes a long way
 quoteperson: VeganOlive1 on Twitter
-packsize: 5g/30g Jar - With Sea Buckthorn & Frankincense
+packsize: 5ml/30ml/90ml Jar - With Sea Buckthorn & Frankincense
 offer: A 10% discount has been applied to the retail price.
+message: Now available in 90ml size.
 layout: productdetails
 ---
 

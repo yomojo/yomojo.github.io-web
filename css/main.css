@@ -3,63 +3,43 @@
 
 /* ======== add custom css ======== */
 
+
 @font-face {
-    font-family: 'alma_monobold';
-    src: url('fonts/almamono-bold-webfont.woff2') format('woff2'),
-         url('fonts/almamono-bold-webfont.woff') format('woff');
+    font-family: 'Truetypewriter PolyglOTT';
+    src: url('fonts/TruetypewriterPolyglOTT.woff2') format('woff2'),
+        url('fonts/TruetypewriterPolyglOTT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Daft Brush';
+    src: url('fonts/DaftBrush.woff2') format('woff2'),
+        url('fonts/DaftBrush.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'daftbrush-text';
+    src: url('daftbrush-text-webfont.woff2') format('woff2'),
+         url('daftbrush-text-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
 
-@font-face {
-    font-family: 'alma_monoheavy';
-    src: url('fonts/almamono-heavy-webfont.woff2') format('woff2'),
-         url('fonts/almamono-heavy-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'alma_monolight';
-    src: url('fonts/almamono-light-webfont.woff2') format('woff2'),
-         url('fonts/almamono-light-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'alma_monoregular';
-    src: url('fonts/almamono-regular-webfont.woff2') format('woff2'),
-         url('fonts/almamono-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'alma_monothin';
-    src: url('fonts/almamono-thin-webfont.woff2') format('woff2'),
-         url('fonts/almamono-thin-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-	font-family: 'A Love of Thunder';
-	src: url('https://s3-eu-west-1.amazonaws.com/yomojo/fonts/ALoveofThunder.eot');
-	src: url('https://s3-eu-west-1.amazonaws.com/yomojo/fonts/ALoveofThunder.eot?#iefix') format('embedded-opentype'),
-		url('https://s3-eu-west-1.amazonaws.com/yomojo/fonts/ALoveofThunder.woff') format('woff'),
-		url('https://s3-eu-west-1.amazonaws.com/yomojo/fonts/ALoveofThunder.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
+body {
+    font-size: 1.25rem;
+    line-height: 1.25;
 }
 
 p, ul, table, ol, li {
-    font-family: 'alma_monoregular'; 
+    font-family: 'Truetypewriter PolyglOTT'; 
+}
+
+h1, h2, h3, h4, h5 {
+    font-display: 'DaftBrush';
 }
 
 /* Hug the block above you */
@@ -101,7 +81,7 @@ a {
 }
 
 div.home p {
-    font-family: 'alma_monobold';
+    font-family: 'Truetypewriter PolyglOTT';
 }
 
 div.container.home h1 {
@@ -110,7 +90,7 @@ div.container.home h1 {
 
 div.container.home p {
     font-weight: 600;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     background: #fff;
     opacity: 0.6;
 }
@@ -122,8 +102,9 @@ p a:hover, .is-post p a, .is-post ul a {
 
 .shop-news h5 {
     color: #fff;
-    font-size: 0.75rem;
-    font-family: 'A Love of Thunder';
+    font-size: 1.25rem;
+    font-family: 'Truetypewriter PolyglOTT';
+    text-transform: uppercase;
 }
 
 blockquote {
@@ -148,7 +129,7 @@ blockquote p {
     margin-top: 0;
     font-size: 0.85rem;
     line-height: 1.15rem;
-    font-family: 'A Love of Thunder';
+    font-family: 'daftbrush-text';
 }
 
 .content.is-small blockquote h5 {
@@ -159,11 +140,11 @@ blockquote p {
     width: 65%;
     font-size: 1.5rem;
     line-height: 1.65rem;
-    font-family: 'A Love of Thunder';
+    font-family: 'daftbrush-text';
 }
 
 h4.quote {
-    font-size: 0.707rem;
+/*    font-size: 1.25rem;*/
     margin-bottom: 0;
 }
 
@@ -186,11 +167,11 @@ h4.quote {
 
 .is-ad-1 .is-podcast p, .is-ad-1 .is-shop p, .is-ad-2 p {
 
-    font-family: 'alma_monoregular';
+    font-family: 'Truetypewriter PolyglOTT';
 }
 
 .button {
-    font-family: 'alma_monoregular';
+    font-family: 'Truetypewriter PolyglOTT';
 }
 
 .is-ad-1 .is-shop p {
@@ -200,7 +181,7 @@ h4.quote {
 .is-shop h2 {
     color: #db4500;
     font-size: 0.75rem;
-    font-family: 'A Love of Thunder';
+/*    font-family: 'A Love of Thunder';*/
 }
 
 .is-buy {
@@ -213,7 +194,7 @@ h4.quote {
 .is-ad-1 {
   background-color: #fff1de;
   background-image: url(https://s3-eu-west-1.amazonaws.com/yomojo/texture-wall.png);
-  font-family: 'A Love of Thunder';
+/*  font-family: 'Truetypewriter PolyglOTT';*/
   color: #bc3736;
 }
 
@@ -240,7 +221,7 @@ color: #222;
 }
 
 .is-ad-1 p, .is-ad-1 ul, .is-ad-2 ul {
-    font-family: 'A Love of Thunder';
+    font-family: 'daftbrush-text';
 }
 
 .order {
@@ -266,7 +247,7 @@ width: 39%;
 
 #info,
 #info p, #info h3 {
-font-family: 'alma_monoregular';
+font-family: 'Truetypewriter PolyglOTT';
 text-transform: uppercase;
 }
 

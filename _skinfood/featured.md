@@ -6,15 +6,25 @@ excerpt: Simple products made using plant based natural ingredients & materials 
   in Leicester—UK.
 ---
 
-## What's wrong with modern skincare
+## It started with Jack fruit in India
 
-Skincare today uses a myriad of chemicals toxic to the bacteria that exist within our skin. These bacteria protect our skin and live in harmony with us and have done so for thousands of years. Being ‘squeaky clean’ has its consequences. We end up destroying the food source the good bacteria live off and killing them off.
+I was in India touring the south and Jack fruit season was starting and so my sister and her husband knew I love Jack fruit and decided to buy a wholeone for me! It was not quite ripe and would take several days to ripen—so I had to carry this huge thing around while travelling from city to city on public transport. When it was ripe enough I cut it with my tiny knife in the hotel room and if you've cut a fresh Jack fruit—then you know your hands can get really sticky. This 'glue' like substance is incredibly hard to clean off, as I was soon finding out. Then I had a light buld moment—what if I used oil to clean it off? I had some coconut oil in a tiny bottle and tried it. I could not believe how easily the gooey substance came off my hands.
+
+This is where the idea for FAB was born and it's taken a few years to come up with a simple range of multiuse products. I use these products everyday from cleaning, mositurising and protecting—they just work.
+
+## Don't kill the bacteria on your skin
+
+Skincare today uses a myriad of chemicals toxic to the bacteria that exist within our skin. These bacteria protect our skin and live in harmony with us and have done so for thousands of years. Being ‘squeaky clean’ has its consequences. We end up destroying the food source the good bacteria live off and kill them.
 
 This can create problems like irritation, blemishes, redness, greasiness, and dryness. We then classify these as, skin types. They are symptoms of unbalanced skin.
 
-## FAB skin food to balance your skin
+## Balance your skin with natural ingredients
 
 Use oil to clean, exfoliate and moisturise the skin. Made of the finest natural oil, like **human sebum** and rich in minerals and vitamins. Free from petrochemicals, artificial or synthetic ingredients. Each product contains less than five natural plant-based ingredients. Humans used for testing **FAB**.
+
+## Why I don't use soap
+
+Soap is made from a chemical reaction with an oil and lye. That reaction (saponification) changes the make up of the oil and lye. The lye is no longer there and very little of the oil remains after saponification—depending on how much oil is added to the mixture. Soap is a **harsh cleaner** for me and probably for many people. My skin has always felt dry after using soap and I have to mositurise myself—which rarely worked with products which were just as harmful to my skin. Soap strips the natural oils and bacteria from your skin—that's not what we should be doing. FAB oil is not going to be harsh on your skin and you won't have to mositurise yourself after washing with the oil. You'll smell your natural self. Your natural skin bacteria will love you and your skin will improve very quickly.
 
 ***
 
@@ -24,10 +34,8 @@ Use oil to clean, exfoliate and moisturise the skin. Made of the finest natural 
 
 ***
 
-### What does FAB promise?
+### FAB range
 
-It’s not going to fix your life for you or your sleep problems. There is a great book on sleep you should (must) read; Why We Sleep by Mathew Walker.
-
-FAB oil and butter are **simple, multi-purpose, unisex** products. You can use them all over your **hair, face and body**. They are suitable for all hair and skin types. Their look, appearance and texture are not formulated to be a certain way—it is all natural. Because they are **super-concentrated**, a little goes a really long way. They will help nourish and protect your skin and hair. In the most natural-ethical way possible, without destroying the good bacteria that live within your skin and hair.
+FAB products are **simple, multi-purpose, unisex** products. You can use them all over your **hair, face and body**. They are suitable for all hair and skin types. Their look, appearance and texture are not formulated to be a certain way—it is all natural. Because they are **super-concentrated**, a little goes a really long way. They will help nourish and protect your skin and hair. In the most natural-ethical way possible, without destroying the good bacteria that live within your skin and hair.
 
 ![fab 01 oil and instruction card](/uploads/fab-oil-and-card.jpeg)

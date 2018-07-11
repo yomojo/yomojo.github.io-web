@@ -12,7 +12,7 @@ order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered 
   ecwid-Product ecwid-Product-84262477" itemscope itemtype="http://schema.org/Product"
   data-single-product-id="84262477"><div itemtype="http://schema.org/Offer" itemscope
   itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price"
-  content="10.5" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div
+  content="12.5" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div
   customprop="options"></div><div customprop="addtobag"></div></div>
 sku: cmnbite01
 first_image: "/uploads/choc-mulberry-box-open-wrap-bw.jpeg"

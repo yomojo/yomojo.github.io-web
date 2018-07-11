@@ -15,6 +15,7 @@ They are simple, multi-use, unisex products. You can use them for:
 * Shaving - FAB oil only
 * Hair 
 * Nails and cuticles
+* Deodarant - FAB_04 deodarant only
 
 The best way to use them is when you're having shower (bath) during or after or both, while your body is wet. 
 
@@ -23,15 +24,21 @@ The best way to use them is when you're having shower (bath) during or after or 
 * You can now apply it to any part of your hair, face or body.
 
 ### For the butter
-* Scoop a tiny amount onto your finger. It's super-concentrated so don't use too much.
+* Scoop a pea size amount onto your finger. It's super-concentrated so don't use too much.
 * Melt into your palms to soften it.
-* You can now apply it to any part of your hair, face or body.
+* You can apply it to any part of your face or body.
 
 To wash: rub all over your body, with your hands or a cotton cloth and rinse off. Once you finish your shower, you can apply some more while still wet. The wetness helps the oil or butter spread with ease over a large area.
 
 If you want to use it for moisturising apply once you finish your shower, while you're still wet—for the best effect.
 
 You can also use the butter with the oil, for double the effect. Apply the oil first and then the butter on top. This is very effective for cracked skin
+
+### For the deodarant
+
+* Dab some onto your finger tip and rub on armpit—repeat on the other side.
+
+You only need to use a small amount of this oil. Don't use it like normal deodarant. One dap on your armpits works great. You can also dab some around your neck or ears for a great woody sweet smell.
 
 ### Shaving
 1. Wet face with hot water.

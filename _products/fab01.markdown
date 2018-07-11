@@ -3,8 +3,9 @@ title: FAB 01
 tags:
 - quote
 - fab
+- message
 name: FAB_01 Oil
-price: 10.65
+price: 
 order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered
   ecwid-Product ecwid-Product-97783589" itemscope itemtype="http://schema.org/Product"
   data-single-product-id="97783589"><div itemtype="http://schema.org/Offer" itemscope
@@ -22,7 +23,8 @@ excerpt: |-
   * Face
   * Body
   * Hair
-  * Nails
+  * Nails/Cuticles
+  * Lips
   * Cracked  or flaky skin
   * Shaving
 
@@ -35,12 +37,12 @@ quote: For someone who doesn't give the time for skincare and is wary due to hav
   super-sensitive skin, it is versatile, transportable, easy to use and gentle and
   nourishing. The kindest product I have used xx
 quoteperson: mykitchari on Instagram
-packsize: 10ml/20ml Bottle
-offer: A 10% discount has been applied to the retail price.
+packsize: 20ml/100ml Bottle
+offer: 
 layout: productdetails
 date: 2018-04-15 17:02:30 +0000
 permalink: "/products/:title/"
-message: ''
+message: Now available in 100ml size.
 ---
 
 Made with simple, finest quality, plant-based ingredients. FAB_01 Oil is only made in limited batches. 
@@ -54,10 +56,14 @@ Jojoba oil contains natural minerals and vitamins. The chemical profile of jojob
 
 You only need to use a small amount of this oil. Don't use it like normal body oil. See instructions below.
 
-**Instructions**:
-1. During and after showering, while you're still wet is the best time to use it.
-2. Dab some onto your finger or cotton cloth. Then apply all over your body and face. The water will help the oil emulsify and spread over a large area. A little will go a very long way.
-3. Use it during the day on wet or dry skin.
+**Washing with the oil**:
+1. During showering, wet your skin first.
+2. Dab some onto your finger or cotton cloth. Then apply all over your body and face. The water will help the oil emulsify and spread over a large area. A little will go a very long way. This will not lather like soap :)
+3. Rinse off and then apply some FAB butter to finish off.
+4. If you're cleaning your face at night—wet face, rub some oil into your face gently.
+5. Leave for a short while and then wipe off with a cotton towel.
+
+Use it during the day on wet or dry skin.
 
 **Shaving with the oil**:
 1. Wet face with hot water.
