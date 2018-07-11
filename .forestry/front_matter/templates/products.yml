@@ -1,9 +1,5 @@
 ---
-pages:
-- _products/fab01.markdown
-- _products/fab02.markdown
-- _products/fab03.markdown
-- _products/chocolate-mulberries.markdown
+label: products
 hide_body: false
 is_partial: false
 fields:
@@ -93,3 +89,8 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- _products/chocolate-mulberries.markdown
+- _products/fab01.markdown
+- _products/fab02.markdown
+- _products/fab03.markdown
