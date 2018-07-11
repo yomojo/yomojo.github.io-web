@@ -5,7 +5,7 @@ tags:
 position: 1
 date: 2018-03-28 15:27:23 +0000
 ---
-##### free delivery on orders over £20 in leicester
+##### free delivery on orders over £25 in leicester
 
 The Chocolate Mulberry Noshbites are available in a 105g tubs from Leicester Wholefoods or Currant Affairs. The 300g boxes are only available online.
 
