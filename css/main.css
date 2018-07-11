@@ -38,6 +38,10 @@ p, ul, table, ol, li {
     font-family: 'Truetypewriter PolyglOTT'; 
 }
 
+ul, ol {
+    margin: 1em;
+}
+
 h1, h2, h3, h4, h5 {
     font-display: 'DaftBrush';
 }
