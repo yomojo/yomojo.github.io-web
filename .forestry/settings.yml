@@ -1,9 +1,32 @@
 ---
-upload_path: "/_uploads"
-frontmatter_file_url_template: "/uploads"
-body_file_url_template: "/uploads"
 new_page_extension: md
-auto_deploy: false
+auto_deploy: true
 admin_path: 
 webhook_url: 
-collections: 
+collections:
+- path: _noshbites
+  label: Noshbites
+  create: all
+- path: _products
+  label: Products
+  create: all
+- path: _skinfood
+  label: Skinfood
+  create: all
+- path: _uploads
+  label: Uploads
+  create: all
+- path: _posts
+  label: Posts
+  create: all
+- path: _home
+  label: Home
+  create: all
+- path: ''
+  label: Pages
+  create: all
+upload_dir: _uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
