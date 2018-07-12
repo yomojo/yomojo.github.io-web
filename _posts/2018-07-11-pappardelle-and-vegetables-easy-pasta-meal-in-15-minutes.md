@@ -34,7 +34,7 @@ There are two parts to this recipe. You can make both at the same time or start 
  1. Add the peppers to a large pan and add some olive oil.
  2. Gently heat the pan with the lid on and let the peppers sweat.
  3. Once the peppers begin to go soft add the cherry tomatoes and oregano—cook for a few minutes.
- 4. Add tomatoe puree, sea salt and cook for several more minutes.
+ 4. Add tomato puree, sea salt and cook for several more minutes.
  5. Add apple cider vinegar, black pepper and more olive oil—mix well. Check to see if you need to add more seasoning. Leave the lid on the pan and turn the heat off.
 
 Now to make the pasta. Pappardelle usually takes about seven minutes.
