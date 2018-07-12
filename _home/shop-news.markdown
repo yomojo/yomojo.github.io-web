@@ -3,7 +3,7 @@ title: FAB
 date: 2017-10-09 13:22:00 +01:00
 tags:
 - shop
-assets: "/uploads/fab04-deodarant-5ml.jpeg"
+assets: "/uploads/fab04-deodarant-5ml-label.jpeg"
 layout: post
 ---
 
