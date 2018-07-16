@@ -1,6 +1,6 @@
 ---
 title: Chocolate Mulberries
-date: 2016-12-07 11:56:00 +0000
+date: 2018-07-16 11:56:00 +0000
 tags:
 - quote
 - offer
@@ -15,10 +15,10 @@ order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered 
   content="12.5" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div
   customprop="options"></div><div customprop="addtobag"></div></div>
 sku: cmnbite01
-first_image: "/uploads/choc-mulberry-box-open-wrap-bw.jpeg"
-second_image: "/uploads/choc-mulberry-box-open-wrap.jpeg"
+first_image: "/uploads/choc-mulberry-box-closeup.jpeg"
+second_image: "/uploads/choc-noshbite-box-label.jpeg"
 weight: 300
-excerpt: Do you love dark chocolate? Combine it with organic mulberries and you have
+excerpt: Do you love 100% dark chocolate? Combine it with organic mulberries and you have
   magic! These are just so moreish that you cannot stop eating them.
 quote: Do you love someone enough to share them with?
 packsize: 300g Box
@@ -35,8 +35,6 @@ Handmade with the minimal of ingredients, no added sugar, palm oil, artificial c
 *Organic ingredient.
 
 Allergy warnings: see ingredients in **bold**. These mulberries do not contain nuts but they are handled on the premises.
-
-Salt **content** per bar is less than 0.22g.
 
 
 | NUTRITION INFORMATION | Per 100g |
