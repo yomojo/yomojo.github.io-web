@@ -6,7 +6,7 @@ excerpt: Simple products made using plant based natural ingredients & materials 
   in Leicester—UK.
 ---
 
-## Raw deliciousness
+## 100% Dark Chocolate Deliciousness
 
 These are artisanal foods I make in small batches. Always freshly handmade with, organic, plant-based ingredients. They do not contain **palm oil, refined sugar, artificial colours or flavours**.
 

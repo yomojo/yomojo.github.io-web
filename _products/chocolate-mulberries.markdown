@@ -5,6 +5,7 @@ tags:
 - quote
 - offer
 - noshbites
+- message
 - image2
 name: Chocolate Mulberries
 price: 10
@@ -20,13 +21,13 @@ second_image: "/uploads/choc-noshbite-box-label.jpeg"
 weight: 300
 excerpt: Do you love 100% dark chocolate? Combine it with organic mulberries and you have
   magic! These are just so moreish that you cannot stop eating them.
-quote: Do you love someone enough to share them with?
+quote: Single orgin 100% dark chcolate is used with no added sugar or sweeteners. You just taste the chocolate and the sweetness of the mulberries—perfect.
 packsize: 300g Box
 offer: The price includes 1st class delivery to the UK mainland.
 layout: productdetails
 quoteperson: ''
 permalink: "/products/:title/"
-message: ''
+message: 'Waiting for delivery of mulberries—sorry!'
 ---
 
 Handmade with the minimal of ingredients, no added sugar, palm oil, artificial colours or flavours. They are made freshly to order.

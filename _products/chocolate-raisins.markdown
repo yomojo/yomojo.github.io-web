@@ -1,5 +1,5 @@
 ---
-title: Chocolate Jumbo Flame Raisins Hint of Cayenne
+title: Chocolate Jumbo Flame Raisins That Bite Back
 date: 2018-07-16 11:56:00 +0000
 tags:
 - quote
@@ -7,7 +7,7 @@ tags:
 - noshbites
 - image2
 - message
-name: Chocolate Jumbo Flame Raisins With a Hint of Cayenne
+name: Chocolate Jumbo Flame Raisins That Bite Back!
 price: 10
 order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-110852703" itemscope itemtype="http://schema.org/Product" data-single-product-id="110852703"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="9.99" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
 sku: cmnbite01
@@ -15,7 +15,7 @@ first_image: "/uploads/choc-jumbo-flame-raisin-box-closeup.jpeg"
 second_image: "/uploads/choc-noshbite-box-label.jpeg"
 weight: 300
 excerpt: Jumbo flame raisins, cayenne and 100% dark chocolate—if you like dark chocolate and cayenne this is for you! These are just so moreish with a 'kick' that you cannot stop eating them.
-quote: Do you love someone enough to share them with?
+quote: First you taste the 100% dark chocolate, then the sweetness of the raisin and then whack—the cayenne kicks in!
 packsize: 300g Box
 offer: The price includes 1st class delivery to the UK mainland.
 layout: productdetails
