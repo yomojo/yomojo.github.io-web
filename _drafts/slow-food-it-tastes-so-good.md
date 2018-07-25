@@ -16,9 +16,9 @@ When food is simple it makes me happy. I don’t want to create complex, intrica
 
 You can use special slow cookers but you can use a good heavy pan or pot with a lid. I'm using a Le Creuset non-stick shallow casserole with a lid—the 30cm size.
 
-What do I mean by slow cooking? It's not about cooking food for hours but it is about cooking all the ingredients on a medium to low heat for 30 to 40 minutes usually—sometimes an hour together. You may need to pre cook some of the ingredients before doing the 'final' cook. For example if I was adding chickpeas—I would make them from dry chickpeas but you could use tinned or carton varieties.
+What do I mean by slow cooking? **It's not about cooking food for hours but it is about cooking all the ingredients on a medium to low heat for 30 to 40 minutes**—sometimes an hour together. You may need to pre cook some of the ingredients before doing the 'final' cook. For example if I was adding chickpeas—I would make them from dry chickpeas but you could use tinned or carton varieties.
 
-Why slow cooking? Cooking everything in one go, slowly over a long period, and I've found that period is about 30 to 40 minutes is just fine, creates a deeper flavour. The key is not to use a high heat but a medium to low heat. Start with the medium heat and then for the last 10 to 15 minutes reduce it to a low heat. With some ingredients no stirring is required but with others you might need to give it stir halfway through. Let it rest for another 10 minutes and serve.
+**Why slow cooking**? Cooking everything in one go, slowly over a long period, and I've found that period is about 30 to 40 minutes is just fine, creates a deeper flavour. The key is not to use a high heat but a medium to low heat. Start with the medium heat and then for the last 10 to 15 minutes reduce it to a low heat. With some ingredients no stirring is required but with others you might need to give it stir halfway through. Let it rest for another 10 minutes and serve.
 
 It's so easy to make and you can have a great meal ready for four people ready  within an hour. **Most of your time will be taken up with prep**—depends on how long it takes you to chop the vegetables. On average it takes me about 10 minutes.
 
