@@ -1,7 +1,8 @@
 ---
 permalink: "/journal/:title/"
 layout: post
-categories: []
+categories:
+- baked
 assets: "/uploads/slow-food-aubergine-peas.jpeg"
 excerpt: When food is simple it makes me happy. I don’t want to create complex, intricate
   works of ‘art’ when it comes to food—not usually…
