@@ -26,8 +26,6 @@ What can you cook? Any combination of vegetables, beans, lentils, pulses, herbs 
 
 \### Examples of slow foods
 
-Carrots, pumpkin, courgette, mung beans (pre-soaked), tomatoes, crushed garlic, bayleaf, coriander seeds, cayenne, olive oil, apple cider vinegar, seasoning and water.
-
 ![Carrots, pumpkin, courgette, mung beans](/uploads/slow-food-mung-beans.jpeg "Carrots, pumpkin, courgette, mung beans")
 
 \[Used some of the veggie burg mix left\]([https://yomojo.co.uk/journal/veggie-burg-its-seriously-good/](https://yomojo.co.uk/journal/veggie-burg-its-seriously-good/ "https://yomojo.co.uk/journal/veggie-burg-its-seriously-good/")) Made a paste from it, added aubergine, courgettes, peppers, cherry toms, peas, onion, ground cumin, sea salt, lime juice, olive oil—cook slowly for 30 to 40 mins
