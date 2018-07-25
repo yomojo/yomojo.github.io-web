@@ -32,7 +32,7 @@ What can you cook? Any combination of vegetables, beans, lentils, pulses, herbs 
 
 ![Aubergine, courgette, peppers and bean paste](/uploads/slow-food-aubergine-peas.jpeg "Aubergine, courgette, peppers and bean paste")
 
-**Experimenting with slow, easy food**. Grab some ingredients you like and try it. I used: leeks, french beans, sweet potato, split red lentils, peppers, cherry tomatoes, ground cumin, cinnamon, cayenne, olive oil, apple cider vinegar and water. You'll be pleasantly surprised by the results
+**Experimenting with slow, easy food**. Grab some ingredients you like and try it. I used: leeks, french beans, sweet potato, split red lentils, peppers, cherry tomatoes, ground cumin, cinnamon, cayenne, olive oil, apple cider vinegar and water. **You'll be pleasantly surprised by the results**.
 
 ![leeks, french beans, sweet potato, split red lentils, peppers, cherry tomatoes](/uploads/slow-food-sweet-potato-beans.jpeg "leeks, french beans, sweet potato, split red lentils, peppers, cherry tomatoes")
 
@@ -44,4 +44,4 @@ Baked beans are an example of slow food. If you make them at home—they will ta
 
 ![home made baked beans](/uploads/slow-food-baked-beans.jpeg "home made baked beans")
 
-What makes slow food special is the longer gentle cooking. It really brings out the flavours of all the different ingredients—you'll notice it, and it's really easy to prepare. Chop some vegetables, add a bean or lentil if you want, herbs, spices, seasoning, olive oil, cider vinegar or lemon juice and a little water to start the magic—you're good to go. It's that easy. Just remember to turn the heat down—medium to low heat and definitely low heat for the last 10 minutes. Then let it rest for another 10 minutes before you serve it. A heavy wide pan with a lid is necessary. If you have a smaller pan—reduce the ingredients accordingly. The cooked food will shrink and you'll notice more liquid. Don't add too much water—it's just used to start the cooking process and stop the food sticking to the pan.
+**What makes slow food special is the longer gentle cooking**. It really brings out the flavours of all the different ingredients—you'll notice it, and it's really easy to prepare. Chop some vegetables, add a bean or lentil if you want, herbs, spices, seasoning, olive oil, cider vinegar or lemon juice and a little water to start the magic—you're good to go. It's that easy. Just remember to turn the heat down—medium to low heat and definitely low heat for the last 10 minutes. Then let it rest for another 10 minutes before you serve it. A heavy wide pan with a lid is necessary. If you have a smaller pan—reduce the ingredients accordingly. The cooked food will shrink and you'll notice more liquid. Don't add too much water—it's just used to start the cooking process and stop the food sticking to the pan.
