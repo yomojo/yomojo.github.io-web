@@ -48,15 +48,16 @@ fields:
   name: show_media
   label: Show media
 pages:
-- _posts/2017-04-20-a-simple-versatile-flat-leaf-parsely-pesto-recipe.markdown
 - _posts/2017-10-19-moist-steamed-cakes.markdown
-- _posts/2018-03-28-chappati-stuffed-with-a-butternut-squash-filling.md
 - _posts/2015-06-17-one-minute-rule.markdown
-- _posts/2017-01-20-simple-pranayama-concious-breathing.markdown
 - _posts/2017-12-13-rotla-millet-indian-flat-bread.markdown
-- _posts/2017-11-15-blackeye-bean-curry.markdown
 - _posts/2017-05-17-red-cabbage-ginger-and-tamari-salad.markdown
+- _posts/2017-04-20-a-simple-versatile-flat-leaf-parsely-pesto-recipe.markdown
+- _posts/2018-03-28-chappati-stuffed-with-a-butternut-squash-filling.md
+- _posts/2017-01-20-simple-pranayama-concious-breathing.markdown
 - _posts/2017-03-10-mooli-radish-curry-also-known-as-daikon.markdown
+- _posts/2017-11-15-blackeye-bean-curry.markdown
+- _posts/2018-07-25-slow-food-it-tastes-so-good.md
 - _posts/2015-07-24-john-is-a-medical-engineerthough-bike-trials-is-his-love.markdown
 - _posts/2016-05-11-masoor-dhal-or-lentils.markdown
 - _posts/2016-12-09-almond-chocolate-orange-cake.markdown
