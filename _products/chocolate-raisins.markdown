@@ -7,7 +7,7 @@ tags:
 - noshbites
 - image2
 - message
-name: Chocolate Jumbo Flame Raisins That Bite Back!
+name: Chocolate Jumbo Raisins
 price: 10
 order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-110852703" itemscope itemtype="http://schema.org/Product" data-single-product-id="110852703"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="9.99" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
 sku: cmnbite01

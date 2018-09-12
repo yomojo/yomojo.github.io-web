@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+  <section class="section">
+    <div class="container is-fluid">    
+
+  {% include shop-cat.html %}
+                                                     
+      </div>
+    </section>
+     
+     <section class="section">
+         <div class="container is-fluid">
+                             
+
+                <article class="content is-medium-desktop">
+                   {% for post in site.shop %}
+                       {% if post.tags contains 'featured' %}
+                {{ post.content }} 
+
+                        {% endif %}
+                    {% endfor %}
+                    </article>
+  
+          </div>     
+         
+     </section>

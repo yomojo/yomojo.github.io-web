@@ -78,9 +78,9 @@ I’ve been on this Earth for over 50 years and for over 20 years I’ve been pl
 
 I wake up naturally at 6am, no need to use an alarm. I wash my face and mouth with cold water and then drink a little water. For about an hour I do some Hanna Somatics and Yoga. The Yoga comprises of pranayama, meditation and a few asanas.
 
-I fast for about 12 hours, so I won't eat anything until about 9am. Lunch is the main meal of the day, frequently a curry. In the afternoon, after a nap (if I've had one), I’ll have fruit or cake. In the evening, around 6pm I’ll have a small meal. The food I cook varies, but to get an idea take a look at the recipes in the [Baked not Fried](https://yomojo.co.uk/baked/) section. Sometimes I might even have porridge. Generally I dislike eating late after 8pm I tend not to eat anything if possible.
+I don't eat for about 16 hours. I try to stop eating at around 8pm and I'll start eating at about 12pm the next day. From 12pm to 8pm I'll eat whatever I feel like. There is never a set pattern but it has to be simple most of the time. The food I cook varies, but to get an idea take a look at the recipes in the [Baked not Fried](https://yomojo.co.uk/baked/) section. Sometimes I might even have porridge. Generally I dislike eating late after 8pm I tend not to eat anything if possible.
 
-I go to sleep from 10:30pm, depending on how many sleep cycles I want to achieve before my wake up time. There are no phones, tv, computers, etc. in the room. The bedroom is for three things, sleep, reading and sex.
+I go to sleep from 9:30pm, depending on how many sleep cycles I want to achieve before my wake up time. There are no phones, tv, computers, etc. in the room. The bedroom is for three things, sleep, reading and sex.
 
 Do I wish my plant-based life had started sooner? Yes, but I'm grateful for the journey and I’m content that I did. One of the best things I have done.
 

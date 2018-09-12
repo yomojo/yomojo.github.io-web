@@ -1,5 +1,5 @@
 ---
-title: FAB 03
+title: FAB 03 Body Butter
 tags:
 - fab
 - image2

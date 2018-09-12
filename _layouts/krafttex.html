@@ -1,0 +1,63 @@
+---
+layout: default
+---
+  
+    <section class="section">
+      
+            <h3 class="is-size-4">KRAFT-TEX RANGE</h3>
+       <div class="columns is-multiline">
+               
+            
+       
+{% for product in site.products %}
+ {% if product.tags contains 'kraft' %}
+     <div class="column is-one-quarter">
+  {% include product-col.html %}
+               </div>
+
+      {% endif %}
+{% endfor %}
+  
+  
+        </div>   
+</section>
+ <!-- end grid -->
+      
+<section class="section black-band">
+      <div class="container is-fluid">
+        <div class="columns">
+                <article class="column is-4 content is-small shop-news">
+                  
+                                     {% for post in site.krafttex %}
+                       {% if post.tags contains 'featured' %}
+
+                {{ post.content }} 
+
+                        {% endif %}
+                    {% endfor %}
+                    
+                   {% for post in site.krafttex %}
+                       {% if post.tags contains 'news' %}
+                    <h4 class="is-caps is-5">
+                        {{ post.title }}
+                    </h4>
+
+                {{ post.content }} 
+
+                        {% endif %}
+                    {% endfor %}
+                </article>
+                
+                                <article class="column is-8 content is-medium-desktop">
+                   {% for post in site.krafttex %}
+                       {% if post.tags contains 'extra' %}
+                
+                {{ post.content }} 
+              
+                        {% endif %}
+                    {% endfor %}
+                </article>
+          </div>
+    </div>
+    </section>
+

@@ -21,6 +21,16 @@
                 </article>
                 {% endfor %}
                    {% endif %}   
+                   
+                    {% if page.url == '/random-thoughts/' %}
+                    {% for post in site.categories.random %}
+                <article>
+                <h3 class="title is-size-4">{{post.title}}</h3>
+                <p>{% if post.excerpt %} {{post.excerpt | strip_html}} {% else %} {{post.content | strip_html | truncate: 200}} {% endif %}</p>
+                <p><a href="{{post.url}}">Read More →</a></p>
+                </article>
+                {% endfor %}
+                   {% endif %} 
                 </div>
             </div>
         </div>

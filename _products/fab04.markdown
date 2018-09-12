@@ -1,5 +1,5 @@
 ---
-title: FAB 04
+title: FAB 04 Deodorant
 tags:
 - fab
 - message

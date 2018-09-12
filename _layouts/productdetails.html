@@ -13,7 +13,14 @@ layout: default
                     {% if page.tags contains 'image2' %}
                    <img src="{{ page.second_image }}" alt="{{ page.name }}" class="thumbnail"/>
                    {% endif %}
+                   
+                   {% if page.tags contains 'image3' %}
+                   <img src="{{ page.third_image }}" alt="{{ page.name }}" class="thumbnail"/>
+                   {% endif %}
                   
+                  {% if page.tags contains 'image4' %}
+                   <img src="{{ page.fourth_image }}" alt="{{ page.name }}" class="thumbnail"/>
+                   {% endif %}
                 </div>
                 
                 <div class="column is-6 content is-medium">

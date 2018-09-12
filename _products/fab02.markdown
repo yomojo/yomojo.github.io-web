@@ -1,5 +1,5 @@
 ---
-title: FAB 02
+title: FAB 02 Body Butter
 tags:
 - quote
 - fab

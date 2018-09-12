@@ -2,7 +2,7 @@
 title: My Bicicapace Cargo Bike—It's Italian
 date: 2016-04-07 16:55:00 +01:00
 categories:
-- baked
+- random
 description: I cannot recommend the Bicicapace enough. It's one of the best handmade
   cargo bicycles produced today.
 excerpt: I've had the Bicicapace for nearly three years. Has it been worth keeping?

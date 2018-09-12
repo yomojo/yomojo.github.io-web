@@ -2,7 +2,7 @@
 title: Simple Pranayama—Concious Breathing
 date: 2017-01-20 14:17:00 +00:00
 categories:
-- baked
+- random
 assets: "/uploads/Image_08.png"
 excerpt: Ujjayi Pranayama is a simple conscious breathing practice to help you relax
   the entire body. You can do it almost anywhere and at anytime…

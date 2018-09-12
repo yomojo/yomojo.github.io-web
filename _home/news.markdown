@@ -3,20 +3,17 @@ title: Noshbites and Skin Food
 date: 2018-07-10 16:00:00 +0000
 tags:
 - news
-excerpt: "A new product has been added to the FAB range. \n\nA deodarant made from
-  natural oils, that does not block sweat pores on the skin."
+excerpt: "Kraft-Tex products are now avaialble. \n\nIt's a plant-based material the can replace leather and cloth for many things. \n\nDelivery option to mainland Europe is now available."
 layout: post
 ---
-#### FAB Skincare
+#### Kraft-Tex
 
-Is now cheaper and comes in larger sizes. A deodorant has been added to the range with a subtle sandalwood scent, and it comes in a beautiful small glass jar.
+I'm making a range of products made from Kraft-Tex from wallets, bags, notebook cases… It's a brilliant product to work with and it has so many possibilities.
 
-![fab deodarant](/uploads/fab04-deodarant-5ml.jpeg)
+![kraft-tex notebook case](/uploads/kraft-notebook-case-love-hearts.jpeg)
 
-I have been using FAB for washing, moisturising, deodorising, shaving, getting rid of a cracked skin on my heel… They just work.
+I will be adding more products to this range over the next few months.
 
-FAB is a range of skincare that is made with plantbased ingredients and tested on humans only.
+![yomojo range of products](/uploads/yomojo-range.jpeg)
 
-##### @veganpigeon
-
-> Love the oil, makes my skin feel really great. The oil is amazing.
+_Range of products I make currently_

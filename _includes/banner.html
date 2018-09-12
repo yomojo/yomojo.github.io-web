@@ -66,6 +66,52 @@
 
 {% endif %} 
 
+{% if page.url == '/krafttex/' %}
+<section class="hero yellow-band is-left">
+    <div class="hero-body">
+        <div class="container">
+          {% for post in site.krafttex %}
+                       {% if post.tags contains 'intro' %}
+                
+            <h1 class="is-size-1">{{ post.content | strip_html }}</h1>
+             <h4><strong>{{post.def_title }}</strong></h4>
+            <p>{{ post.def }}</p> 
+                                 
+      <div class="divider"></div>
+      
+       <h4>{{post.excerpt }}</h4>
+                {% endif %}
+                    {% endfor %}
+            
+        </div>
+    </div>
+</section>
+
+{% endif %} 
+
+{% if page.url == '/shop/' %}
+<section class="hero yellow-band is-left">
+    <div class="hero-body">
+        <div class="container">
+          {% for post in site.shop %}
+                       {% if post.tags contains 'intro' %}
+                
+            <h1 class="is-size-1">{{ post.content | strip_html }}</h1>
+             <h4><strong>{{post.def_title }}</strong></h4>
+            <p>{{ post.def }}</p> 
+                                 
+      <div class="divider"></div>
+      
+       <h4>{{post.excerpt }}</h4>
+                {% endif %}
+                    {% endfor %}
+            
+        </div>
+    </div>
+</section>
+
+{% endif %} 
+
 {% if page.url == '/interviews/' %}
 <section class="hero is-danger is-left">
     <div class="hero-body">
@@ -92,3 +138,17 @@ Mainly recipes, sometimes other things to inspire, feed and challenge you.
     </div>
 </section>
 {% endif %}       
+
+
+{% if page.url == '/random-thoughts/' %}
+<section class="hero is-success is-left">
+    <div class="hero-body">
+        <div class="container">
+
+            <h1 class="is-size-1">
+Random thoughts about life and things.
+            </h1>
+        </div>
+    </div>
+</section>
+{% endif %}  

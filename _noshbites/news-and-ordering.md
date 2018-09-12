@@ -21,7 +21,7 @@ Once your order is being processed, you will receive an email.
 
 ##### delivery charges
 
-* Are included in the price for the Noshbite boxes.
+* Are included in the price for the Noshbite boxes within the UK. For the EU it's £12.50—I'm sorry but this is the cheapest price I could find for tracked delivery to countries in the EU. You can order multiple boxes and or other products and you will only pay on delivery fee of £12.50.
 
 Noshbites are available in Leicester at:  
 [**Leicester Wholefoods**](http://wholefoodcoop.co.uk)  

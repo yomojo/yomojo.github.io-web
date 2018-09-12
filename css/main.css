@@ -13,17 +13,17 @@
 }
 
 @font-face {
-    font-family: 'Daft Brush';
-    src: url('fonts/DaftBrush.woff2') format('woff2'),
-        url('fonts/DaftBrush.woff') format('woff');
+    font-family: 'daftbrush';
+    src: url('fonts/DaftBrush-webfont.woff2') format('woff2'),
+        url('fonts/DaftBrush-webfont.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'daftbrush-text';
-    src: url('daftbrush-text-webfont.woff2') format('woff2'),
-         url('daftbrush-text-webfont.woff') format('woff');
+    src: url('fonts/daftbrush-text-webfont.woff2') format('woff2'),
+         url('fonts/daftbrush-text-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -43,7 +43,23 @@ ul, ol {
 }
 
 h1, h2, h3, h4, h5 {
-    font-display: 'DaftBrush';
+    font-family: 'daftbrush';
+}
+
+div.shopcat a p {
+    font-family: 'daftbrush-text';
+}
+
+.noshbitebox {
+    background-color: hsl(5,  11%, 19%);
+}
+
+.fabbox {
+    background-color: hsl(48,  88%, 57%);
+}
+
+.kraftbox {
+    background-color: hsl(30,  38%, 48%);
 }
 
 /* Hug the block above you */

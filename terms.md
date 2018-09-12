@@ -12,9 +12,7 @@ Terms of payment are within our sole discretion and, unless otherwise agreed by 
 
 ### Delivery Policy and Pricing
 
-UK: Yomojo offers a Royal Mail 2nd Class signed for delivery on orders for £3.90. Free delivery is available on orders of £30 or more. Delivery is via Royal Mail. Once your order has been placed—your order will be processed and shipped within 3 to 5 days.
-
-World: Please contact me to see if it's possible to deliver to your country.
+UK: Yomojo offers a Royal Mail 2nd Class signed for delivery on orders for £3.90. Free delivery is available on orders of £30 or more. EU: £12.50 Royal Mail International Tracked & Signed. Delivery is via Royal Mail. Once your order has been placed—your order will be processed and shipped within 3 to 5 days.
 
 Prices for our products are subject to change without notice.
 We reserve the right at any time to modify or discontinue any product without notice at any time.

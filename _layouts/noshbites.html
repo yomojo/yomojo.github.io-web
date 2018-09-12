@@ -2,37 +2,6 @@
 layout: default
 ---
 
- <section class="section teal-band">
-        <div class="container is-fluid">
-
-            <div class="columns">
-                <article class="column is-8 content is-medium-desktop">
-                   {% for post in site.noshbites %}
-                       {% if post.tags contains 'featured' %}
-                
-                {{ post.content }} 
-              
-                        {% endif %}
-                    {% endfor %}
-                </article>
-                
-                <article class="column is-4 content is-small shop-news">
-                   {% for post in site.noshbites %}
-                       {% if post.tags contains 'news' %}
-                    <h4 class="is-caps is-5">
-                        {{ post.title }}
-                    </h4>
-
-                {{ post.content }} 
-
-                        {% endif %}
-                    {% endfor %}
-                </article>
-            </div>
-
-        </div>
-    </section>
-    
  <section class="section products">
             <!-- products -->
        <div class="tile is-ancestor">
@@ -62,4 +31,35 @@ layout: default
                     </article>
                 </div>
      </div>
+    </section>
+    
+ <section class="section teal-band">
+        <div class="container is-fluid">
+
+            <div class="columns">
+                <article class="column is-8 content is-medium-desktop">
+                   {% for post in site.noshbites %}
+                       {% if post.tags contains 'featured' %}
+                
+                {{ post.content }} 
+              
+                        {% endif %}
+                    {% endfor %}
+                </article>
+                
+                <article class="column is-4 content is-small shop-news">
+                   {% for post in site.noshbites %}
+                       {% if post.tags contains 'news' %}
+                    <h4 class="is-caps is-5">
+                        {{ post.title }}
+                    </h4>
+
+                {{ post.content }} 
+
+                        {% endif %}
+                    {% endfor %}
+                </article>
+            </div>
+
+        </div>
     </section>
