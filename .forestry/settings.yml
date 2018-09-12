@@ -1,28 +1,38 @@
 ---
 new_page_extension: md
 auto_deploy: true
-admin_path: 
+admin_path: ''
 webhook_url: 
-collections:
-- path: _noshbites
+sections:
+- type: directory
+  path: _noshbites
   label: Noshbites
   create: all
-- path: _products
+  match: "**/*"
+- type: directory
+  path: _products
   label: Products
   create: all
-- path: _skinfood
+  match: "**/*"
+- type: directory
+  path: _skinfood
   label: Skinfood
   create: all
-- path: _uploads
+  match: "**/*"
+- type: directory
+  path: _uploads
   label: Uploads
   create: all
-- path: _posts
+  match: "**/*"
+- type: jekyll-posts
   label: Posts
   create: all
-- path: _home
+- type: directory
+  path: _home
   label: Home
   create: all
-- path: ''
+  match: "**/*"
+- type: jekyll-pages
   label: Pages
   create: all
 upload_dir: _uploads
