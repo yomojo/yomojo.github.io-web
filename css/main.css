@@ -42,7 +42,7 @@ ul, ol {
     margin: 1em;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h4, h5, .navbar-item {
     font-family: 'daftbrush';
 }
 

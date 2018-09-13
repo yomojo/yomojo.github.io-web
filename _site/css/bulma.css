@@ -51,7 +51,7 @@ html { background-color: white; font-size: 16px; -moz-osx-font-smoothing: graysc
 
 article, aside, figure, footer, header, hgroup, section { display: block; }
 
-body, button, input, select, textarea { font-family: daftbrush, Georgia, Times New Roman, serif; }
+body, button, input, select, textarea { font-family: Georgia, Times New Roman, serif; }
 
 code, pre { -moz-osx-font-smoothing: auto; -webkit-font-smoothing: auto; font-family: monospace; }
 
