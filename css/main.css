@@ -14,8 +14,8 @@
 
 @font-face {
     font-family: 'daftbrush';
-    src: url('fonts/DaftBrush-webfont.woff2') format('woff2'),
-        url('fonts/DaftBrush-webfont.woff') format('woff');
+    src: url('fonts/daftbrush-webfont.woff2') format('woff2'),
+        url('fonts/daftbrush-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
