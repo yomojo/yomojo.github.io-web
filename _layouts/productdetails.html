@@ -81,3 +81,18 @@ layout: default
     </div>
 </section>
 {% endif %}
+
+
+   {% if page.tags contains 'kraft' %}
+   <section class="section black-band">
+    <div class="container content is-medium-desktop">
+        <div class="columns">       
+            <div class="column is-post"> 
+                
+                {{page.content}}
+                          
+            </div>
+        </div>
+    </div>
+</section>
+{% endif %}
