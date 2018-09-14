@@ -27,7 +27,7 @@ offer: The price includes 1st class delivery to the UK mainland.
 layout: productdetails
 quoteperson: ''
 permalink: "/products/:title/"
-message: 'Waiting for delivery of mulberries—sorry!'
+message: 'Mulberries now available—sorry for the delay'
 ---
 
 Handmade with the minimal of ingredients, no added sugar, palm oil, artificial colours or flavours. They are made freshly to order.
