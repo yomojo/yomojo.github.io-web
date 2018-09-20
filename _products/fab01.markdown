@@ -4,6 +4,7 @@ tags:
 - quote
 - fab
 - message
+- video
 name: FAB_01 Oil
 price: 
 order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered
@@ -15,6 +16,7 @@ order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered 
 sku: cacnb01
 first_image: "/uploads/fab01-oil-20ml.jpeg"
 second_image: "/uploads/fab01-oil-10ml.jpeg"
+video_id: 290922516
 weight: 130
 excerpt: |-
   An all over face, body and hair oil. It does not feel greasy when applied. It's very concentrated and a little goes a long way.
@@ -42,7 +44,7 @@ offer:
 layout: productdetails
 date: 2018-04-15 17:02:30 +0000
 permalink: "/products/:title/"
-message: Now available in 100ml size.
+message: You can use it for shaving—see video.
 ---
 
 Made with simple, finest quality, plant-based ingredients. FAB_01 Oil is only made in limited batches. 
