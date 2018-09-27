@@ -8,7 +8,7 @@ layout: post
 ---
 #### Kraft-Tex
 
-I'm making a range of products made from Kraft-Tex from wallets, bags, notebook cases… It's a brilliant product to work with and it has so many possibilities.
+I'm making a range of products made from Kraft-Tex from wallets, bags, notebook cases… It's a brilliant product to work with and it has so many possibilities. I'll be adding more products over the next few months.
 
 ![kraft-tex notebook case](/uploads/kraft-notebook-case-love-hearts.jpeg)
 

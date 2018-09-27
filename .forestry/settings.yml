@@ -5,10 +5,18 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: _home
+  label: Home
+  create: all
+  match: "**/*"
+- type: directory
   path: _noshbites
   label: Noshbites
   create: all
   match: "**/*"
+- type: jekyll-posts
+  label: Posts
+  create: all
 - type: directory
   path: _products
   label: Products
@@ -20,22 +28,29 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: _uploads
-  label: Uploads
+  path: _krafttex
+  label: Krafttex
   create: all
   match: "**/*"
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: directory
-  path: _home
-  label: Home
+  path: _shop
+  label: Shop
+  create: all
+  match: "**/*"
+- type: directory
+  path: _random-thoughts
+  label: Random thoughts
+  create: all
+  match: "**/*"
+- type: directory
+  path: _uploads
+  label: Uploads
   create: all
   match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
-upload_dir: _uploads
+upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
