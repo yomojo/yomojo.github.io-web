@@ -313,12 +313,12 @@ table td, table th {
 }
 
 .hero-image {
-    background: url("") no-repeat;
+    background: url("/images/spelt-pizza-with-spinach-and-broccoli.jpeg") no-repeat;
     background-size: cover;
 }
 
 .noshbite-image {
-    background: url("") no-repeat;
+    background: url("/images/choc-mulberry-box.jpeg") no-repeat;
     background-size: cover;
 }
 

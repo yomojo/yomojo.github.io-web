@@ -1,43 +1,87 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+---
+ title: Interviews with people who eat plant based foods, online shop selling handmade products made from plants. Thoughts and ideas on sustainability, bicycles, food and life.
+ timezone: GMT
+ collections:
+   home:
+     title: Home
+     output: true
+   noshbites:
+     title: Noshbites
+     output: true
+   posts:
+     title: Posts
+     output: true
+   products:
+     title: Products
+     output: true
+   skinfood:
+     title: Skinfood
+     output: true
+   krafttex:
+     title: Kraft-Tex
+     output: true
+   shop:
+     title: Shop
+     output: true
+   random-thoughts:
+     title: Random Thoughts
+     output: true
+   uploads:
+     title: Uploads
+     output: true
+ defaults:
+ - scope:
+     path: ''
+     type: products
+   values:
+     layout: product
+     permalink: "/products/:title/"
+     name: ''
+     price: '0.0'
+     order: ''
+     sku: ''
+     first_image: ''
+     second_image: ''
+     weight: 0.0
+     message: ''
+     excerpt: ''
+     quote: ''
+     quoteperson: ''
+     packsize: ''
+     offer: ''
+ - scope:
+     path: ''
+     type: posts
+   values:
+     permalink: "/journal/:title/"
+     layout: post
+     categories: ''
+     assets: 
+     excerpt: ''
+ author: Rajiv Shah
+ url: https://yomojo.co.uk
+ enforce_ssl: yomojo.co.uk
+ plugins:
+ - jekyll-sitemap
+ - jekyll-seo-tag
+ permalink: pretty
+ copyright: Yomojo
+ description: Interviews with people who eat plant based foods, online shop selling
+   handmade products such as plantbased chocolate mulberries and skincare. Thoughts
+   and ideas on sustainability, life, food and news - leicester uk.
+ sass:
+   sass_dir: _sass
+ markdown: kramdown
+ redcarpet:
+   extensions:
+   - autolink
+   - fenced_code_blocks
+   - lax_spacing
+   - strikethrough
+   - superscript
+   - tables
+   - footnotes
+   - highlight
+ year_val: 2018
+ home_banner: "/images/spelt-pizza-with-spinach-and-broccoli.jpeg"
+ noshbite_banner: "/images/choc-mulberry-box.jpeg"
