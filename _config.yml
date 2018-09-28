@@ -64,6 +64,16 @@
  plugins:
  - jekyll-sitemap
  - jekyll-seo-tag
+ - jekyll-compose
+ - jekyll-redirect-from
+ 
+ exclude:
+ - vendor
+ - Gemfile
+ - Gemfile.lock
+ - LICENSE
+ - Readme.md
+ - Rakefile
  permalink: pretty
  copyright: Yomojo
  description: Interviews with people who eat plant based foods, online shop selling
@@ -85,4 +95,3 @@
  year_val: 2018
  home_banner: "/images/spelt-pizza-with-spinach-and-broccoli.jpeg"
  noshbite_banner: "/images/choc-mulberry-box.jpeg"
- exclude: [vendor]

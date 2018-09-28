@@ -122,6 +122,8 @@ GEM
       commonmarker (~> 0.17.6)
       jekyll-commonmark (~> 1)
       rouge (~> 2)
+    jekyll-compose (0.8.0)
+      jekyll (~> 3.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
     jekyll-feed (0.10.0)
@@ -257,6 +259,8 @@ DEPENDENCIES
   github-pages
   html-proofer
   jekyll
+  jekyll-compose (~> 0.5)
+  jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
 
