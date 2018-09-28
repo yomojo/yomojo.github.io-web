@@ -80,7 +80,7 @@ I wake up naturally at 6am, no need to use an alarm. I wash my face and mouth w
 
 I don't eat for about 16 hours. I try to stop eating at around 8pm and I'll start eating at about 12pm the next day. From 12pm to 8pm I'll eat whatever I feel like. There is never a set pattern but it has to be simple most of the time. The food I cook varies, but to get an idea take a look at the recipes in the [Baked not Fried](https://yomojo.co.uk/baked/) section. Sometimes I might even have porridge. Generally I dislike eating late after 8pm I tend not to eat anything if possible.
 
-I go to sleep from 9:30pm, depending on how many sleep cycles I want to achieve before my wake up time. There are no phones, tv, computers, etc. in the room. The bedroom is for three things, sleep, reading and sex.
+I go to sleep from about 9:30pm onwards, depending on how many sleep cycles I want to achieve before my wake up time. There are no phones, tv, computers, etc. in the room. The bedroom is for three things, sleep, reading and sex.
 
 Do I wish my plant-based life had started sooner? Yes, but I'm grateful for the journey and I’m content that I did. One of the best things I have done.
 
