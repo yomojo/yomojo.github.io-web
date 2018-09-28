@@ -1,3 +1,15 @@
 _site
 .sass-cache
 .jekyll-metadata
+.DS_Store
+.DS_Store?
+
+Gemfile
+
+Gemfile.lock
+
+_site/shop/index.html
+
+_posts/2017-12-13-rotlamillet-indian-flat-bread.md
+
+_posts/rotlamillet-indian-flat-bread.md
