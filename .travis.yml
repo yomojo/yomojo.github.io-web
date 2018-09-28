@@ -1,9 +1,7 @@
-language: ruby
-rvm:
-- 2.4.1
-cache: bundler
-
-install:
-- bundle install
-script:
-- bundle exec jekyll build
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: 15eaced93cd606376e6415ae05420eccd3eeb5b7  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  on:
+    branch: gh-pages
