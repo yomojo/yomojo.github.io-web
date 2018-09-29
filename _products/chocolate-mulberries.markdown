@@ -5,7 +5,6 @@ tags:
 - quote
 - offer
 - noshbites
-- message
 - image2
 name: Chocolate Mulberries
 price: 10
