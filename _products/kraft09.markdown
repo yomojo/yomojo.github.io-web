@@ -32,7 +32,7 @@ quoteperson:
 quote: 
 packsize: 6 Label Tags
 offer: 
-message: To see the different typefaces see below.
+message: To see the different typefaces see below. Once your order is placed I will contact you for details of the text you want to use.
 layout: productdetails
 ---
 
