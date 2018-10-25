@@ -1,5 +1,4 @@
 ---
-permalink: "/journal/:title/"
 layout: post
 categories:
 - baked

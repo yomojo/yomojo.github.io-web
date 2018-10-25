@@ -1,5 +1,5 @@
 ---
- title: Interviews with people who eat plant based foods, online shop selling handmade products made from plants. Thoughts and ideas on sustainability, bicycles, food and life.
+ title: Simple recipes using plant based food, interviews with people who eat plant based foods, handcrafted products made from plants.
  timezone: GMT
  collections:
    home:
@@ -76,9 +76,7 @@
  - Rakefile
  permalink: pretty
  copyright: Yomojo
- description: Interviews with people who eat plant based foods, online shop selling
-   handmade products such as plantbased chocolate mulberries and skincare. Thoughts
-   and ideas on sustainability, life, food and news - leicester uk.
+ description: Simple recipes using plant based food, interviews with people who eat plant based foods, handcrafted products made from plants - leicester uk.
  sass:
    sass_dir: _sass
  markdown: kramdown

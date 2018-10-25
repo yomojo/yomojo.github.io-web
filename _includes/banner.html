@@ -1,22 +1,23 @@
+{% if page.url == '/' %}
 
- {% if page.url == '/' %}
-   {% for post in site.home %}
-       {% if post.tags contains 'home' %}
 <section class="hero is-large hero-image is-left">
     <div class="hero-body">
         <div class="container home content is-size-1-desktop">
-          
+             {% for post in site.home %}
+                       {% if post.tags contains 'home' %}
+         
           {% if post.excerpt %} 
                 {{ post.excerpt  }} 
                 {% else %} 
                 {{ post.body }} 
             {% endif %}
            
+               {% endif %}
+    {% endfor %}
         </div>
     </div>
 </section>
-    {% endif %}
-    {% endfor %}
+
         {% endif %}
         
 {% if page.url == '/noshbites/' %}

@@ -9,7 +9,6 @@ layout: post
 show_media: true
 description: ''
 assets: ''
-permalink: "/journal/:title/"
 ---
 
 Why would you want to make it? It tastes so much better when you make it yourself. The fermented veg you buy in shops is pasteurised and so all the goodness from the fermentation is lost. Oh and another thing—it passes the **'mum' test** with flying colours!
