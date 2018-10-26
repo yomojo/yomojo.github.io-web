@@ -19,7 +19,7 @@ weight: 130
 excerpt: |-
   Handcrafted, custom printed Label Tags which you can use for luggage, labelling items… Price includes six Label Tags with custom wording and postage within the UK. Postage for overseas orders will be added during the checkout process. There are price options for the number of designs you want.
 
-  You can choose from three typefaces. You can have upto six lines of text and each line can have upto 20 characters approximately. A PDF proof of the design will be emailed to you to approve before the Label Tags are made.
+  You can choose from three typefaces. You can have upto six lines of text and each line can have upto 20 characters approximately. The first line can have a larger typeface—30pts and the rest is at 18pts A PDF proof of the design will be emailed to you to approve before the Label Tags are made.
   
   You can have the same text printed on six Label Tags, or two different texts printed on three labels for each text, or six different texts printed on six labels.
   
