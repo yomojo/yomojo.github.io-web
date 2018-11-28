@@ -6,12 +6,6 @@ excerpt: Simple products made using plant based natural ingredients & materials 
   in Leicester—UK.
 ---
 
-## It started with Jack fruit in India
-
-I was in India touring the south and Jack fruit season was starting and so my sister and her husband knew I love Jack fruit and decided to buy a wholeone for me! It was not quite ripe and would take several days to ripen—so I had to carry this huge thing around while travelling from city to city on public transport. When it was ripe enough I cut it with my tiny knife in the hotel room and if you've cut a fresh Jack fruit—then you know your hands can get really sticky. This 'glue' like substance is incredibly hard to clean off, as I was soon finding out. Then I had a light bulb moment—what if I used oil to clean it off? I had some coconut oil in a tiny bottle and tried it. I could not believe how easily the gooey substance came off my hands.
-
-This is where the idea for FAB was born and it's taken a few years to come up with a simple range of multiuse products. I use these products everyday from cleaning, mositurising and protecting—they just work.
-
 ## Don't kill the bacteria on your skin
 
 Skincare today uses a myriad of chemicals toxic to the bacteria that exist within our skin. These bacteria protect our skin and live in harmony with us and have done so for thousands of years. Being ‘squeaky clean’ has its consequences. We end up destroying the food source the good bacteria live off and kill them.

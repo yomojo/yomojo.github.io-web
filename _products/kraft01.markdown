@@ -1,25 +1,25 @@
 ---
-title: Kraft-Tex Simple Wallet
+title: Kraft-Tex Eco Sac
 tags:
 - kraft
 - message
 - image2
-- image3
-name: Simple Wallet
+name: Eco sac
 price: 
-order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-115209445" itemscope itemtype="http://schema.org/Product" data-single-product-id="115209445"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="7.5" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
-sku: kt01
-first_image: "/uploads/kraft-simple-wallet-blk.jpeg"
-second_image: "/uploads/kraft-simple-wallet-open.jpeg"
-third_image: "/uploads/kraft-simple-wallet-blkwht.jpeg"
+order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-125554202" itemscope itemtype="http://schema.org/Product" data-single-product-id="125554202"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="12" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
+sku: kt02
+first_image: "/uploads/kraft-eco-sac-nat.jpeg"
+second_image: "/uploads/kraft-eco-sac-nat-apples.jpeg"
+third_image:
 fourth_image:
 weight: 130
 excerpt: |-
-  A simple wallet with three compartments—it uses an elastic closure. You can use the two side compartments for credit cards, notes and the middle one for coins.
-
-  Hand stitched—you can choose from three material colours, thread colours and elastic colours.
+  A sac that can be used for many things—from storage to shopping or even hiding ugly plant pots with an eco sac that has so much character. An eco plastic free storage sac. **Please note—that Kraft-Tex is washable but not waterproof**.
   
-  Width x Height: 98mm x 70mm
+  **The sac will be packed flat. It will come creased and wrinkled—that is the nature of the material when it's used over a large area. This creates it's own unique character**.
+
+  Machine stitched—you can choose from three material colours and two sizes currently.
+
 quoteperson: 
 quote: 
 packsize:
@@ -28,12 +28,16 @@ message: Need a custom product—contact me.
 layout: productdetails
 ---
 
+Unfolded sizes are approximate.
+
+Small Width x Height x Depth: 150mm x 280mm x 120mm  
+Medium Width x Height x Depth: 170mm x 330mm x 120mm
+
 * Entirely handcrafted by me.
-* All the stitching is done by hand.
-* Unwaxed linen thread (made in Norfolk) is used.
+* All machine stitched by hand.
+* Unwaxed cotton thread (made in Italy) is used.
 * 100% vegan materials used.
 * Kraft-Tex is made in Germany.
-* Quality metal parts are used.
 
 ***
 

@@ -1,39 +1,44 @@
 ---
-title: Kraft-Tex Simple Coin Wallet
+title: Kraft-Tex Eco Basket
 tags:
 - kraft
 - message
 - image2
 - image3
-name: Simple Coin Wallet
+name: Eco Basket
 price: 
-order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-115209325" itemscope itemtype="http://schema.org/Product" data-single-product-id="115209325"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="5" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
+order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-125554219" itemscope itemtype="http://schema.org/Product" data-single-product-id="125554219"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="6" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
 sku: kt03
-first_image: "/uploads/kraft-simple-coin-note-wallet-bwn.jpeg"
-second_image: "/uploads/kraft-simple-coin-note-wallet-blk.jpeg"
-third_image: "/uploads/kraft-simple-coin-note-wallet-blk-open.jpeg"
+first_image: "/uploads/kraft-eco-basket-nat-citrus-front.jpeg"
+second_image: "/uploads/kraft-eco-basket-blk-buttons-front.jpeg"
+third_image: "/uploads/kraft-eco-basket-nat-citrus-side.jpeg"
 fourth_image:
 weight: 130
 excerpt: |-
-  A simple wallet with a single compartment—it uses an elastic closure around a button. You can use the compartment for credit cards, notes and and or coins.
+  A simple basket to store anything from food to non-food items.
 
-  Hand stitched—you can choose from three material colours, thread colours and elastic colours.
+   An eco plastic free storage bag. **Please note—that Kraft-Tex is washable but not waterproof**.
   
-  Width x Height: 80mm x 90mm
+  **The bag will be packed flat. It will come creased and wrinkled—that is the nature of the material when it's used over a large area. This creates it's own unique character**.
+
+  Machine stitched—you can choose from three material colours.
 quoteperson: 
 quote: 
-packsize:
+packsize: 
 offer: 
-message: Need a custom product—contact me.
+message: For a custom cover print—contact me.
 layout: productdetails
 ---
 
+Sizes are approximate.
+
+Width x Height x Depth: Bottom 280mm x 110mm x 60mm  
+
 * Entirely handcrafted by me.
-* All the stitching is done by hand.
-* Unwaxed linen thread (made in Norfolk) is used.
+* All machine stitched by hand.
+* Unwaxed cotton thread (made in Italy) is used.
 * 100% vegan materials used.
 * Kraft-Tex is made in Germany.
-* Quality metal parts are used.
 
 ***
 

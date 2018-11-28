@@ -1,24 +1,24 @@
 ---
-title: Kraft-Keyring Note Pocket
+title: Kraft-Tex Simple Wallet Button
 tags:
 - kraft
 - message
 - image2
-name: Keyring Note Pocket
+name: Simple Wallet Button
 price: 
-order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-115209348" itemscope itemtype="http://schema.org/Product" data-single-product-id="115209348"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="3" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
+order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-115209318" itemscope itemtype="http://schema.org/Product" data-single-product-id="115209318"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="9" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
 sku: kt05
-first_image: "/uploads/kraft-keyring-note-pocket.jpeg"
-second_image: "/uploads/kraft-keyring-note-pocket-with-note.jpeg"
+first_image: "/uploads/kraft-simple-wallet.jpeg"
+second_image: "/uploads/kraft-simple-wallet-open.jpeg"
 third_image:
 fourth_image:
 weight: 130
 excerpt: |-
-  It's your emergency £10 or £5 note holder which you can carry on your keyring—making it very practicle. The note is held very securely in the pocket. The keyring is made from stainless steel.
+  A simple wallet with three compartments—it uses an elastic closure around a button. You can use the two side compartments for credit cards, notes and the middle one for coins.
 
-  Hand stitched—you can choose from three material colours and thread colours.
+  Hand stitched—you can choose from three material colours, thread colours and elastic colours.
   
-  Width x Height: 25mm x 88mm
+  Width x Height: 98mm x 70mm
 quoteperson: 
 quote: 
 packsize:

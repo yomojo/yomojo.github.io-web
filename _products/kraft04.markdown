@@ -1,24 +1,25 @@
 ---
-title: Kraft-Tex Smiley Keyring Coin Pocket
+title: Kraft-Tex Simple Wallet
 tags:
 - kraft
 - message
 - image2
-name: Smiley Keyring Coin Pocket
+- image3
+name: Simple Wallet
 price: 
-order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-115209347" itemscope itemtype="http://schema.org/Product" data-single-product-id="115209347"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="3" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
+order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-115209445" itemscope itemtype="http://schema.org/Product" data-single-product-id="115209445"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="7.5" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
 sku: kt04
-first_image: "/uploads/kraft-keyring-coin-pocket.jpeg"
-second_image: "/uploads/kraft-keyring-coin-pocket-with-coin.jpeg"
-third_image:
+first_image: "/uploads/kraft-simple-wallet-blk.jpeg"
+second_image: "/uploads/kraft-simple-wallet-open.jpeg"
+third_image: "/uploads/kraft-simple-wallet-blkwht.jpeg"
 fourth_image:
 weight: 130
 excerpt: |-
-  It's your emergency £1 coin or 50p holder which you can carry on your keyring—making it very practicle. The coin is held very securely in the pocket. The keyring is made from stainless steel.
+  A simple wallet with three compartments—it uses an elastic closure. You can use the two side compartments for credit cards, notes and the middle one for coins.
 
-  Hand stitched—you can choose from three material colours and thread colours.
+  Hand stitched—you can choose from three material colours, thread colours and elastic colours.
   
-  Diameter: 45mm
+  Width x Height: 98mm x 70mm
 quoteperson: 
 quote: 
 packsize:

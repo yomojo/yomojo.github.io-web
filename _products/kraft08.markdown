@@ -14,9 +14,9 @@ third_image:
 fourth_image:
 weight: 130
 excerpt: |-
-  A large Tote, that can carry lots of things. The thick (15mm) soft cotton cord handles (made in Norfolk) are stitched onto the Tote. As the Tote ages, it will crease and wrinkle beautifully. Quality Hoppe & Masztalerz brass fittings are used.
+  A large Tote, that can carry lots of things. The thick (15mm) soft cotton cord handles (made in Norfolk) are stitched onto the Tote. As the Tote ages, it will crease and wrinkle beautifully. Quality Hoppe & Masztalerz brass fittings are used. **Please note—that Kraft-Tex is washable but not waterproof**.
   
-   **It will come creased and wrinkled—that is the nature of the material when it's used over a large area**. 
+   **The bag will be packed flat. It will come creased and wrinkled—that is the nature of the material when it's used over a large area. This creates it's own unique character**.
 
   You can choose from three colours. 
   

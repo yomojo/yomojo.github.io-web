@@ -1,31 +1,30 @@
 ---
-title: Kraft-Tex Pocket Notebook
+title: Kraft-Tex Simple Coin Wallet
 tags:
 - kraft
 - message
 - image2
-- packsize
-name: Pocket Notebook
+- image3
+name: Simple Coin Wallet
 price: 
-order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-115209410" itemscope itemtype="http://schema.org/Product" data-single-product-id="115209410"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="5" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
+order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-115209325" itemscope itemtype="http://schema.org/Product" data-single-product-id="115209325"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="5" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
 sku: kt07
-first_image: "/uploads/kraft-notebooks.jpeg"
-second_image: "/uploads/kraft-notebook-case-open.jpeg"
-third_image: 
+first_image: "/uploads/kraft-simple-coin-note-wallet-bwn.jpeg"
+second_image: "/uploads/kraft-simple-coin-note-wallet-blk.jpeg"
+third_image: "/uploads/kraft-simple-coin-note-wallet-blk-open.jpeg"
 fourth_image:
 weight: 130
 excerpt: |-
-  Hand stitched pages with pattern covers or plain. The image shows bookmarkers which do not come with the notebooks. They are part of the Notebook Case.
+  A simple wallet with a single compartment—it uses an elastic closure around a button. You can use the compartment for credit cards, notes and and or coins.
 
-  You can choose from two types of card and three designs or plain. 
+  Hand stitched—you can choose from three material colours, thread colours and elastic colours.
   
-  Width x Height: 90mm x 140mm
-  Notebook: 32pages of 120 gsm FSC Certified either—plain/grid/ruled paper
+  Width x Height: 80mm x 90mm
 quoteperson: 
 quote: 
-packsize: 2 Notebooks
+packsize:
 offer: 
-message: For a custom cover print—contact me.
+message: Need a custom product—contact me.
 layout: productdetails
 ---
 

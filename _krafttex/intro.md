@@ -2,8 +2,8 @@
 title: Intro
 tags:
 - intro
-excerpt: HANDCRAFTED PRODUCTS WITH SOUL
+excerpt: It's called kraft-tex.
 free_shipping: Free shipping on UK orders over £30
 ---
 
-A leather and fabric alternative made from plants.
+Do you want reusable, washable paper products—that are plant-based, look beautiful when used, ethical and  bio-degradeable?

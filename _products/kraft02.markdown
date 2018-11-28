@@ -1,24 +1,25 @@
 ---
-title: Kraft-Tex Simple Wallet Button
+title: Kraft Eco Snack Bag
 tags:
 - kraft
 - message
 - image2
-name: Simple Wallet Button
+name: Eco Snack Bag
 price: 
-order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-115209318" itemscope itemtype="http://schema.org/Product" data-single-product-id="115209318"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="9" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
+order: <div class="ecwid ecwid-SingleProduct-v2 ecwid-SingleProduct-v2-bordered ecwid-SingleProduct-v2-centered ecwid-Product ecwid-Product-125554218" itemscope itemtype="http://schema.org/Product" data-single-product-id="125554218"><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecwid-productBrowser-price ecwid-price" itemprop="price" content="14" data-spw-price-location="button"><div itemprop="priceCurrency" content="GBP"></div></div></div><div customprop="options"></div><div customprop="addtobag"></div></div>
 sku: kt02
-first_image: "/uploads/kraft-simple-wallet.jpeg"
-second_image: "/uploads/kraft-simple-wallet-open.jpeg"
+first_image: "/uploads/kraft-eco-snack-bag-nat.jpeg"
+second_image: "/uploads/kraft-eco-snack-bag-blk.jpeg"
 third_image:
 fourth_image:
 weight: 130
 excerpt: |-
-  A simple wallet with three compartments—it uses an elastic closure around a button. You can use the two side compartments for credit cards, notes and the middle one for coins.
-
-  Hand stitched—you can choose from three material colours, thread colours and elastic colours.
+  An eco snack bag that can be used for taking your lunch, picnic or anything else you would like to carry in a small, portable eco bag not made with plastic! The bag is closed by folding the top and securing it with a string around two wooden buttons. **Please note—that Kraft-Tex is washable but not waterproof**.
   
-  Width x Height: 98mm x 70mm
+  **The bag will be packed flat. It will come creased and wrinkled—that is the nature of the material when it's used over a large area. This creates it's own unique character**.
+
+  Machine stitched—you can choose from three material colours.
+  
 quoteperson: 
 quote: 
 packsize:
@@ -27,13 +28,16 @@ message: Need a custom product—contact me.
 layout: productdetails
 ---
 
+Folded sizes are approximate.
+
+Width x Height x Depth: Bottom 120mm Top 230mm x 220mm x 110mm  
+
 * Entirely handcrafted by me.
-* All the stitching is done by hand.
-* Unwaxed linen thread (made in Norfolk) is used.
+* All machine stitched by hand.
+* Unwaxed cotton thread (made in Italy) is used.
 * 100% vegan materials used.
 * Kraft-Tex is made in Germany.
-* Quality metal parts are used.
-
+* Wooden buttons from Germany.
 ***
 
 **Kraft-Tex**

@@ -2,10 +2,10 @@
 title: Intro
 tags:
 - intro
-excerpt: HANDCRAFTED PRODUCTS WITH SOUL
+excerpt: ÿomojo FAB does all of the above and more.
 free_shipping: Free shipping on UK orders over £30
 def_title: 
 def:
 ---
 
-FAB skin food is a no nonsense way to clean, norish and protect your skin—the largest organ in your body.
+What matters to you when you buy skincare products—natural plant-based ingredients, effectiveness, ethical, non-reactive?
