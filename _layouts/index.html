@@ -62,14 +62,17 @@ layout: default
     </section>
 
        
-  <section class="section cream-band is-ad-1 content is-size-6">
+  <section class="section cream-band is-ad-1 content is-size-5">
        <div class="tile is-ancestor">   
                 <div class="tile is-parent">
                 <article class="tile is-child content is-small-desktop is-post is-podcast">
                    {% for post in site.home %} 
-           {% if post.tags contains 'podcast' %}
+           {% if post.tags contains 'home-featured' %}
         <h3 class="title is-size-4">{{post.title}}</h3>
-                {{ post.content }}  
+                {{ post.content }}
+                <figure class="image is-256x256">  
+                <img class="" src="{{ post.assets }}" alt="{{ post.title }}" />
+                </figure>
                 {% endif %} 
                    {% endfor %}
                     </article>
@@ -92,11 +95,19 @@ layout: default
   
   <!-- add grid -->
   <section class="section clear">
+   
+
+   <div class="container">
+    <h1>Plant-based Recipes</h1> 
+    </div>
+   
     <div id="grid" data-columns>
     
    {% for post in site.categories.baked limit:12 %}
+
       
-               <div class="container is-fluid is-grid content is-size-6">  
+               <div class="container is-fluid is-grid content is-size-6"> 
+               
                 {% if post.show_media %}  
                 
 <iframe src="{{ post.media }}" width="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

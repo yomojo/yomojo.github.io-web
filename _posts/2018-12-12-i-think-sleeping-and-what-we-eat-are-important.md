@@ -1,12 +1,11 @@
 ---
 title: I think sleeping and what we eat are important
-date: 2017-02-25 13:11:00 +00:00
-tags:
-- podcast
+categories:
+- random
 Text clip: "**BBC Radio 4** [The Potato](http://www.bbc.co.uk/programmes/b08n20k3)
   Explores the humble potato and it's amazing history. There are so many varieties
   of potato and without it there probably would not be so many of us!"
-layout: post
+description: I think sleeping and what we eat are important...
 ---
 
 Three books that we should all read.
@@ -27,7 +26,3 @@ If there is one book you need to read it's [Sleep](https://www.amazon.co.uk/Slee
 **The Clever Guts Diet**: [How to revolutionise your body from the inside out](https://www.amazon.co.uk/gp/product/1780723040/ref=oh_aui_detailpage_o01_s01?ie=UTF8&psc=1) Michael Mosley takes us on an interesting journey through our digestive system—describing the travels of his 'pill camera.' Scientists are realising how important the microbiome in our gut are and I've been fascinated by this over the last few years. Finding something easy to 'digest' has not been easy, but this book changes things. Whether you eat plant based or not, I think you should read this book. It may change how you look at food.
 
 Michael Mosley, explains _“Your gut is astonishingly clever. It contains millions of neurons - as many as you would find in the brain of a cat - and is home to the microbiome, trillions of microbes that influence your mood, your immune system, and even your appetite.”_
-
-
-
-Love & Smiles—rajiv :)
