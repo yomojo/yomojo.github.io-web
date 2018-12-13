@@ -42,8 +42,6 @@ quoteperson: mykitchari on Instagram
 packsize: 20ml/100ml Bottle
 offer: 
 layout: productdetails
-date: 2018-04-15 17:02:30 +0000
-permalink: "/products/:title/"
 message: You can use it for shaving—see video.
 ---
 
@@ -73,7 +71,8 @@ Use it during the day on wet or dry skin.
 3. Wet face again with hot water.
 4. Wet razor and start to shave. You will need to rinse your razor often. Single or double edged razors work best. 
 5. Repeat from 1-4 again, shaving in the opposite direction.
-6. Clean the razor thoroughly after use and **be careful** of the sharp blade.
+6. Dab some oil onto finger and massage onto face to finish off.
+7. Clean the razor thoroughly after use and **be careful** of the sharp blade.
 
  _**Remember—a little goes a long way!**_
 
