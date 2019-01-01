@@ -18,7 +18,7 @@ Use oil to clean, exfoliate and moisturise the skin. Made of the finest natural 
 
 ## Why I don't use soap
 
-Soap is made from a chemical reaction with an oil and lye. That reaction (saponification) changes the make up of the oil and lye. The lye is no longer there and very little of the oil remains after saponification—depending on how much oil is added to the mixture. Soap is a **harsh cleaner** for me and probably for many people. My skin has always felt dry after using soap and I have to mositurise myself—which rarely worked with products which were just as harmful to my skin. Soap strips the natural oils and bacteria from your skin—that's not what we should be doing. FAB oil is not going to be harsh on your skin and you won't have to mositurise yourself after washing with the oil. You'll smell your natural self. Your natural skin bacteria will love you and your skin will improve very quickly.
+Soap is made from a chemical reaction with oil and lye. That reaction (saponification) changes the makeup of the oil and lye. The lye is no longer present. Very little of the oil remains after saponification. Depending on how much oil is added to the mixture. Soap is a harsh cleaner for me and many people. My skin has always felt dry after using soap. I have to moisturise myself—which rarely worked with products which were as harmful to my skin. Soap strips the natural oils and bacteria from your skin—that’s not what we should be doing. FAB oil is not going to be harsh on your skin and you won’t have to moisturise yourself after washing with the oil. You’ll smell your natural self. Your natural skin bacteria will love you and your skin will improve.
 
 ***
 
@@ -30,6 +30,6 @@ Soap is made from a chemical reaction with an oil and lye. That reaction (saponi
 
 ### FAB range
 
-FAB products are **simple, multi-purpose, unisex** products. You can use them all over your **hair, face and body**. They are suitable for all hair and skin types. Their look, appearance and texture are not formulated to be a certain way—it is all natural. Because they are **super-concentrated**, a little goes a really long way. They will help nourish and protect your skin and hair. In the most natural-ethical way possible, without destroying the good bacteria that live within your skin and hair.
+FAB products are **simple, multi-purpose, unisex** products. You can use them all over your **hair, face and body**. They are suitable for all hair and skin types. Their look, appearance and texture are not formulated to be a certain way—it is all natural. Because they are **super-concentrated**, a little goes a long way. They will help nourish and protect your skin and hair. In a natural ethical way. Without destroying the good bacteria that live within your skin and hair.
 
 ![fab 01 oil and instruction card](/uploads/fab-oil-and-card.jpeg)
