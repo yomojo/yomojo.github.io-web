@@ -15,10 +15,6 @@ Much of what we buy is mass manufactured and once you get into that, then there 
 
 I make things in small batches. It's allows me to make the products I want and the way I want. Materials, qualtity and details are important. I believe in selling the products for a fair price.
 
-#### Noshbites
-
-Mainly snacks, using 100% chocolate. Most snacks are too sweet and I just wanted something that used the minimum of ingrdients, preferably organic and not full of sugar and tastes good.
-
 #### Skinfood
 
 All natural skincare products, made using oils and essential oils. No synthetic chemicals are used, no petroleum based ingreidents and no more than five ingredients go into making a product. The products are multi-use, for all skin types and unisex.
