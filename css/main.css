@@ -35,7 +35,7 @@ body {
 }
 
 p, ul, table, ol, li {
-    font-family: 'Truetypewriter PolyglOTT'; 
+    font-family: 'Truetypewriter PolyglOTT';
 }
 
 ul, ol {
@@ -134,7 +134,7 @@ blockquote {
 blockquote p {
     margin-top: 0;
     font-size: 1.5rem;
-    line-height: 1.65rem; 
+    line-height: 1.65rem;
 }
 
 .content blockquote {
@@ -225,7 +225,7 @@ line-height: 3.25rem;
 font-weight: bold;
 color: #222324;
 }
-  
+
 .is-ad-2 {
 background-color: #ffe201;
 background-image: url(https://s3-eu-west-1.amazonaws.com/yomojo/texture-wall.png);
