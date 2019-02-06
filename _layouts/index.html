@@ -45,9 +45,10 @@ layout: default
                    {% for post in site.home %}
                        {% if post.tags contains 'news' %}
                     <h2 class="is-size-3"> rajivshah.co newsfeed</h2>
+                    <div id="divRss"></div>
 
                 {% if post.excerpt %}
-                {{post.excerpt | markdownify }} 
+                {{post.excerpt | markdownify }}
                 {% else %}
                 {{post.content | markdownify | truncate: 200}}
                 {% endif %}

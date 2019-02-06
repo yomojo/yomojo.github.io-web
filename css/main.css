@@ -402,3 +402,21 @@ footer#info a:hover.flink {
 h3 a:hover {
     color: #21add7;
 }
+
+ul.feedEkList {
+  list-style: none;
+  margin-left: 0.3em;
+}
+
+ul.feedEkList li {
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #4a4a4a;
+}
+
+ul.feedEkList li.itemTitle {
+  font-weight: bold;
+}
+
+ul.feedEkList li a:hover {
+  color: #21add7;
+}
