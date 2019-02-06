@@ -1,3 +1,4 @@
+//call feed script
 $('#divRss').FeedEk({
     FeedUrl : 'https://rajivshah.co/feed.xml',
     MaxCount : 3,
